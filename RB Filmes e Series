@@ -7,12 +7,18 @@ https://www.youtube.com/watch?v=uo7dhpouWsI
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
+#EXTINF:-1 tvg-logo="https://goo.gl/BZ31CD" group-title="LANÇAMENTO",Os Smurfs e a Vila Perdida DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnUitk" group-title="LANÇAMENTO",Sono Mortal DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SONMRTL.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dVgMcE" group-title="LANÇAMENTO",Refém do Medo DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/RFMDMDO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yLzWtb" group-title="LANÇAMENTO""FICÇÃO",Power Rangers DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/PWRNGRS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KpsU69" group-title="LANÇAMENTO",Pastoral Americana DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/PSTLAMRCNA.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pGndKz" group-title="FICÇÃO",O Sinal: Frequência do Medo DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OSNLFRNQDMD.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/vhZDWH" group-title="LANÇAMENTO",O Túnel DUB HD
 http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OTNEL.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LNSNBH" group-title="LANÇAMENTO",O Mito de Garrincha DUB HD
@@ -2328,6 +2334,12 @@ http://ic-b39dd900-077165-1bjdobr.s.loris.llnwd.net/httpdelivery/runaways/01leg/
 http://ic-b39dd900-03c54e-1bjdobr.s.loris.llnwd.net/httpdelivery/runaways/01leg/04-ALTO.mp4
 #EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP5 
 http://ic-b39dd900-0cf6c9-1bjdobr.s.loris.llnwd.net/httpdelivery/runaways/01leg/05-ALTO.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP6
+http://ic-b39dd900-151d12-1bjdobr.s.loris.llnwd.net/httpdelivery/runaways/01leg/06-ALTO.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP7
+http://ic-b39dd900-04d7b3-1bjdobr.s.loris.llnwd.net/httpdelivery/runaways/01leg/07-ALTO.mp4
+
+
 
 #EXTINF:-1 tvg-logo="http://iart.toaos.tk/i/tvshow/331223301_largethumb.jpg” ,group-title="FRINGE", FRINGE T1|EP1
 http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/FRGDUBT01EP01.mp4

@@ -3,6 +3,33 @@
 https://www.youtube.com/watch?v=uo7dhpouWsI
 
 
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aSec3vK.jpg" group-title="LANÇAMENTO",O Grande Roubo DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OGRNDRB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nnA58Q" group-title="LANÇAMENTO",O Estranho que Nós Amamos DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OESTNHQNSAMAMS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GQFeie" group-title="LANÇAMENTO",O Mago das Mentiras DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OMGDSMENTRS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kX9y81" group-title="TERROR",O Canal DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OCANL.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/k77hmS" group-title="LANÇAMENTO",O Reino Gelado: Fogo e Gelo DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ORNOGLDO3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/avwkoD" group-title="ANIMAÇÃO",O Reino Gelado 2 DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ORNOGLDO2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8Kj2J6" group-title="ANIMAÇÃO", O Reino Gelado DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ORNOGLDO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qUnLbK" group-title="LANÇAMENTO",Na Batida do Amor  DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/NABTDADAMR.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jf5tDK" group-title="LANÇAMENTO", Logan Lucky: Roubo em Família DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LGNLCKYRBEMFML.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tH5i49" group-title="LANÇAMENTO", Dia De Trabalho Mortal DUB HD
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DIADTRBLHMTL.mp4
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Zg4fCD" group-title="LANÇAMENTO",Sucesso Acima de Tudo DUB HD
 http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SUCSACMDTD.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Bs2D7P" group-title="TERROR",O Retorno do Palhaço Assassino Dub - 2012 HD
@@ -83,7 +110,7 @@ http://s.vstreaming.net/movies/thisisyourdeath-dub-720p.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/10/14/15/46/312186.jpg" group-title="LANÇAMENTO", SNOWDEN: HERÓI OU TRAIDOR LEG- 1080p
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SNODNHROTRIDRLEG.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/ar6ibS" group-title="LANÇAMENTO", STAR WARS - EPISÓDIO VII: O DESPERTAR DA FORÇA 720p
+#EXTINF:-1 tvg-logo="https://goo.gl/ar6ibS" group-title="FICÇÃO", STAR WARS - EPISÓDIO VII: O DESPERTAR DA FORÇA 720p
 http://zeus.netcine.tv/httpdelivery/filmes2017/STARWARS07DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0rEU1Gtd1RU/WepYf6frMLI/AAAAAAAAMIY/3NFDbjVg8rgGCZQri9l2bpgKTYc5RWfUACLcBGAs/s320/erererr.jpg" group-title="LANÇAMENTO" ,1922 - DUB - HD 2017
 http://s.vstreaming.net/movies/1922-dub-720p.mp4

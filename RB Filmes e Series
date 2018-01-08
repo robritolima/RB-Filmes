@@ -3,7 +3,18 @@
 https://www.youtube.com/watch?v=uo7dhpouWsI
 
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
-
+#EXTINF:-1 tvg-logo="http://cinema10.com.br/upload/filmes/filmes_9099_A%20Lei%20da%20Noite%20-%20Poster%20Final.jpg" group-title="LANÇAMENTO",A Lei da Noite DUB HD
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALEIDNOT.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/01/18/11/58/567423.jpg" group-title="LANÇAMENTO",Clowntergeist DUB HD
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CLWNTRGST.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/01/25/13/52/576358.jpg" group-title="LANÇAMENTO",O Bar DUB HD
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OBAR.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/08/11/20/15/167783.jpg" group-title="LANÇAMENTO",Mãe! DUB HD
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MAE.mp4
+#EXTINF:-1 tvg-logo="https://i1.wp.com/ovicio.com.br/wp-content/uploads/The-Foreigner-Movie-Poster.jpg?resize=786%2C466" group-title="LANÇAMENTO",O Estrangeiro LEG HD
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OESTNGROLEG.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_300_300/pictures/15/11/04/13/11/308191.jpg" group-title="LANÇAMENTO",Reza a Lenda DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/RZALND.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/10/16/20/52/4165591.jpg" group-title="LANÇAMENTO",Pelé: O Nascimento de uma Lenda DUB HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/PELONSCMENTDUMLND.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/08/09/19/20/144922.jpg" group-title="LANÇAMENTO",Bingo: O Rei das Manhãs DUB HD

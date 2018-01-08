@@ -317,11 +317,11 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LGOAZLODSPRT.mp4
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LRDCINFN.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/92dF84" group-title="ANIMAÇÃO" ,LEGO FRIENDS: GIRLZ 4 LIFE (2016)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LEGOFRNDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LEGOFRNDS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/SXt9Ap" group-title="COMEDIA" ,LIÇÕES EM FAMÍLIA (2015)
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LICSEMFMLA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/b7S49j" group-title="ANIMAÇÃO" ,LIGA DA JUSTIÇA: DEUSES E MONSTROS (2015)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LIGDJSTDEUSEMNSTRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LIGDJSTDEUSEMNSTRS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/fqyzWf" group-title="COMEDIA" ,LIGEIRAMENTE GRÁVIDOS (2007)
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LIGRANTGRVDS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/d6dmvR" group-title="NACIONAL" ,LINDA DE MORRER (2015)
@@ -506,8 +506,10 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/BAYWATCHDUB-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/filmes2017/CIRCO2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/d64YHF" group-title="LANÇAMENTO", O ESPAÇO ENTRE NÓS (720p)
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/uZpfdaUTnQMRJKNjv8ktiPNETig=/206x305/v1.bTsxMjI3OTQxNjtqOzE3NTU3OzEyMDA7MjAzMjszMDQ4" group-title="LANÇAMENTO", Wall-E DUB HD
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OPDRSOCFNHDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/HPZLGV" group-title="LANÇAMENTO", O PODEROSO CHEFINHO (720p)
-http://zeus.netcine.tv/httpdelivery/filmes2017/CHEFINHO2017DUB-ALTO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/WLLE.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9qZ5QG" group-title="LANÇAMENTO", T2 - TRAINSPOTTING 2: SEM LIMITES (720p)
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/kxasXi" group-title="LANÇAMENTO", O CHAMADO 3 (1080p)

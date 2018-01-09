@@ -2,7 +2,20 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/LmcW3b",TODOS OS CANAIS POR R$35 POR MÊS 
 https://www.youtube.com/watch?v=uo7dhpouWsI
 
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTO", DUB HD
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO", DUB HD
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/RsSFPcVO2XsxXzTPLkb_x_M9CeU=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/05/lego-batman-o-filme-dc-superheroes-unite_t67361.jpg" group-title="ANIMAÇÃO",Lego Batman: O Filme - Super Heróis se Unem DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
+#EXTINF:-1 tvg-logo="http://img.jogosonlinedemenina.com.br/grande/barbie-aventura-nas-estrelas.jpg" group-title="ANIMAÇÃO",Barbie: Aventura nas Estrelas DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/02/19/28/557955.jpg" group-title="ANIMAÇÃO",Pets: A Vida Secreta dos Bichos DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/16/09/20/19/46/556589.jpg" group-title="ANIMAÇÃO",Festa Da Salsicha DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/FSTDSLSCHA.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/08/23/00/17/011755.jpg" group-title="ANIMAÇÃO",Sing: Quem Canta Seus Males Espanta DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/01/24/17/21/561631.jpg" group-title="LANÇAMENTO",Quase 18 DUB HD
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/QSE18.mp4
 #EXTINF:-1 tvg-logo="http://cinema10.com.br/upload/filmes/filmes_9099_A%20Lei%20da%20Noite%20-%20Poster%20Final.jpg" group-title="LANÇAMENTO",A Lei da Noite DUB HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALEIDNOT.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/01/18/11/58/567423.jpg" group-title="LANÇAMENTO",Clowntergeist DUB HD

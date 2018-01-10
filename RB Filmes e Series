@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://goo.gl/LmcW3b",TODOS OS CANAIS POR R$35 POR MÊS 
 https://www.youtube.com/watch?v=uo7dhpouWsI
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", 2017 DUB
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO", DUB HD
-
+#EXTINF:-1 tvg-logo="http://blogs.odiario.com/inforgospel/wp-content/uploads/sites/6/2014/03/filme-noe-censurado-em-paises-islamicos-cartaz-novo.jpg" group-title="DRAMA",Noé DUB HD
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NOE.mp4
 #EXTINF:-1 tvg-logo="https://img.fstatic.com/RsSFPcVO2XsxXzTPLkb_x_M9CeU=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/05/lego-batman-o-filme-dc-superheroes-unite_t67361.jpg" group-title="ANIMAÇÃO",Lego Batman: O Filme - Super Heróis se Unem DUB HD
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
 #EXTINF:-1 tvg-logo="http://img.jogosonlinedemenina.com.br/grande/barbie-aventura-nas-estrelas.jpg" group-title="ANIMAÇÃO",Barbie: Aventura nas Estrelas DUB HD
@@ -45,7 +47,7 @@ http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MLSTSEODULCMAMRT.m
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DVDVSGLSABTLHDFE.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/08/10/14/01/457578.jpg" group-title="LANÇAMENTO",De Volta para Casa DUB HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DEVLTPRCSA.mp4
-#EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2017/06/depoisdaquelamontanha-2.jpg" group-title="LANÇAMENTO",Depois Daquela Montanha LEG HD
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/10/20/17/25/5860902.jpg" group-title="LANÇAMENTO",Depois Daquela Montanha LEG HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DEPSDQLMONTHLEG.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/06/09/20/51/594780.jpg" group-title="LANÇAMENTO",De Canção em Canção DUB HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DECNCAOEMCNCAO.mp4
@@ -73,7 +75,7 @@ http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OSENGMSDBLBL.mp4
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OJNTR.mp4
 #EXTINF:-1 tvg-logo="http://www.trocafigurinhas.com/Imagens/Albuns/2237Full.jpg" group-title="LANÇAMENTO",Os Smurfs e a Vila Perdida DUB HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4
-#EXTINF:-1 tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/12/463146.jpg" group-title="LANÇAMENTO",Blade Runner 2049 DUB HD
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/08/25/11/58/463146.jpg" group-title="LANÇAMENTO",Blade Runner 2049 DUB HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BLDRNR2049.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dnUitk" group-title="LANÇAMENTO",Sono Mortal DUB HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SONMRTL.mp4
@@ -121,7 +123,7 @@ http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ORTNDPLCASNO.mp4
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SELCNTRL.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-M9XVDHNtb-o/TeWUwPFHEdI/AAAAAAAAGaM/XLk6zX2BlK4/s400/Shredderman%2B-%2BJusticeiro%2Bdos%2BNerds.jpg" group-title="LANÇAMENTO",Shredderman: Justiceiro dos Nerds Dub - 2007 - HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRDMANJSTCDSNRDS.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/agx34T" group-title="FICÇÃO",Skyline: A Invasão Dub - 2010 - HD
+#EXTINF:-1 tvg-logo="http://cdn.cinepop.com.br/2014/11/beyond-skyline-poster.jpg" group-title="FICÇÃO",Skyline: A Invasão Dub - 2010 - HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BEYNDSKLNLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/YveWZp" group-title="LANÇAMENTO",Salvando o Capitalismo Dub - 2017 - HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SLVNDOCAPTSMO.mp4
@@ -129,7 +131,7 @@ http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SLVNDOCAPTSMO.mp4
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SNGPLGLR.mp4
 #EXTINF:-1 tvg-logo="http://eovideolevou.com.br/imgProduto/76380_f1.jpg" group-title="LANÇAMENTO",Sala Verde (Dub - 2017 - HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SALVRD.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9Qkme3" group-title="LANÇAMENTO",Rufus 2 (Dub - 2017 - HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ECYZdMSTSEw/WRgKlW2rFZI/AAAAAAAADGU/BqYX8kKqbVcx5wBE7qoJTpb1AYWzwyAeQCLcB/s320/100000x100000-999.jpg" group-title="LANÇAMENTO",Rufus 2 (Dub - 2017 - HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/RUFS2.mp4
 #EXTINF:-1 tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2016/12/0cd0fd39b2.jpg" group-title="LANÇAMENTO",Retorno a Paloma Dub - HD
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/RTRNODPLM.mp4
@@ -164,15 +166,13 @@ http://s.vstreaming.net/movies/thisisyourdeath-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/10/14/15/46/312186.jpg" group-title="LANÇAMENTO", SNOWDEN: HERÓI OU TRAIDOR LEG- 1080p
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SNODNHROTRIDRLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ar6ibS" group-title="FICÇÃO", STAR WARS - EPISÓDIO VII: O DESPERTAR DA FORÇA 720p
-http://zeus.netcine.tv/httpdelivery/filmes2017/STARWARS07DUB-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRWRSVII.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0rEU1Gtd1RU/WepYf6frMLI/AAAAAAAAMIY/3NFDbjVg8rgGCZQri9l2bpgKTYc5RWfUACLcBGAs/s320/erererr.jpg" group-title="LANÇAMENTO" ,1922 - DUB - HD 2017
 http://s.vstreaming.net/movies/1922-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0rEU1Gtd1RU/WepYf6frMLI/AAAAAAAAMIY/3NFDbjVg8rgGCZQri9l2bpgKTYc5RWfUACLcBGAs/s320/erererr.jpg" group-title="LANÇAMENTO" ,1922 - LEG - HD 2017
 http://assistir.querofilmehd.com/filmes/1922%202017%20720p%20NF%20WEB-DL%20DD5.1%20x264-NTG%20DUAL-IRONSIDE(1).mp4
-#EXTINF:0 tvg-logo="https://i.imgur.com/is0GrMU.jpg" group-title="LANÇAMENTO",47 METERS DOWN - DUB - FULL HD
-http://assistir.querofilmehd.com/filmes/47.Meters.Down.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6Bz97x" group-title="NACIONAL", TRASH: A ESPERANÇA VEM DO LIXO 1080p
-http://cdnv12.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHAESPRNCVMDLX.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHAESPRNCVMDLX.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ipUVAB" group-title="ANIMAÇÃO", TROLLS 1080p
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/TRLS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/onDVB0" group-title="AVENTURA", X-MEN: APOCALYPSE 1080p
@@ -186,19 +186,23 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY3.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/bEbCTr" group-title="ANIMAÇÃO", TOY STORY: ESQUECIDOS PELO TEMPO ESPECIAL DE NATAL - 1080p
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TYSTRYESQDPTEMP.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Titanic_3D.jpg" group-title="DRAMA", TITANIC 1080P
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TITANC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TITANC.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gkVgEa" group-title="ANIMAÇÃO", PROCURANDO DORY 1080p
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PRCNDRY.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rWl8IXq.jpg" group-title="LANÇAMENTO",COMO SE TORNAR O PIOR ALUNO DA ESCOLA (2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/CSATOPADENACIONAL-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rWl8IXq.jpg" group-title="LANÇAMENTO",COMO SE TORNAR O PIOR ALUNO DA ESCOLA 2017
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMSTNROPRALN.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bJNGmlmONe4/Wil-wr8ySTI/AAAAAAAAM-k/6pIInGH3kUMLT4Raw-JvmduVXcN2n9kmwCLcBGAs/s320/ETE5E34T453T4545.jpg"group-title="LANÇAMENTO",Dunkirk LEG 2017
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DUKRK.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6ENowIWGLDQ/WiYWBEpGS3I/AAAAAAAAM6g/VahIybt8y8cu6V4L9UoJ1OW3Htfd6BFXwCLcBGAs/s320/SDC_2351184_2017-25-11--00-16-06.jpg"group-title="LANÇAMENTO",Pokémon – O Filme: Eu Escolho Você! LEG 2017
 http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP001.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9P55yd-vdeo/WiG2SgY6psI/AAAAAAAAM38/ePoGNBOVAvMdUw4p-qJX4Nycjdn4C52NACLcBGAs/s320/tyeturtre.jpg"group-title="LANÇAMENTO",Polícia Federal: A Lei É para Todos 2017
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/POLCFDRLALEIEPRTDS.mp4 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JLpD5U3.jpg"group-title="LANÇAMENTO",Corra! 2017 DUB
-http://zeus.netcine.tv/httpdelivery/filmes2017/CORRADUB-ALTO.mp4
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/60aFbhD.jpg" group-title="ANIMAÇÃO",Zootopia: Essa Cidade é o Bicho 2016
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4

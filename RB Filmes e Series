@@ -4117,94 +4117,114 @@ http://ic-b39dd100-06390c-1bjdobr.s.loris.llnwd.net/httpdelivery/inhumans/01leg/
 
 
 
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP1
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP2
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP3
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP4
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP5
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP6
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP7
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP8
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP9
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP10
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/10-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP11
-http://zeus.netcine.tv/httpdelivery/lucifer/01dub/11-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP12.mp4
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T1|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP1
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP2
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP3
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP4
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP5
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP6
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP7
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP8
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP9
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP10
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP11
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP12
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP13
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP13.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP1
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/01-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP01.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP2
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/02-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP02.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP3
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/03-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP03.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP4
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/04-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP04.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP5
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/05-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP05.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP6
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/06-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP06.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP7
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/07-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP07.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP8
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/08-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP08.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP9
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/09-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP09.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP10
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/10-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP10.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP11
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/11-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP11.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP12
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/12-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP12.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP13
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/13-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP13.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP14
-http://s.netcine.tv/netcine-bucket/lucifer/02leg/14-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LCFRS02EP14.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP15
-http://zeus.netcine.tv/httpdelivery/lucifer/02leg/15-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/LCFRS02EP15.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP16
-http://zeus.netcine.tv/httpdelivery/lucifer/02leg/16-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/LCFRS02EP16.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP17
-http://zeus.netcine.tv/httpdelivery/lucifer/02leg/17-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/LCFRS02EP17.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T2|EP18
-http://zeus.netcine.tv/httpdelivery/lucifer/02leg/18-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/LCFRS02EP18.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T3|EP1
-http://ic-b39dd100-0cd6cd-1bjdobr.s.loris.llnwd.net/httpdelivery/lucifer/03leg/001-BAIXO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP01.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T3|EP2
-http://ic-b39dd100-1397a8-1bjdobr.s.loris.llnwd.net/httpdelivery/lucifer/03leg/02-BAIXO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP02.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T3|EP3
-http://ic-b39dd100-028bee-1bjdobr.s.loris.llnwd.net/httpdelivery/lucifer/03leg/03-BAIXO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP03.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T3|EP4
-http://ic-b39dd100-0a79de-1bjdobr.s.loris.llnwd.net/httpdelivery/lucifer/03leg/04-BAIXO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP04.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T3|EP5
-http://ic-b39dd100-075404-1bjdobr.s.loris.llnwd.net/httpdelivery/lucifer/03leg/05-BAIXO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP05.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T3|EP6
-http://ic-b39dd100-095589-1bjdobr.s.loris.llnwd.net/httpdelivery/lucifer/03leg/06-BAIXO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP06.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T3|EP7
-http://ic-b39dd100-07b5f4-1bjdobr.s.loris.llnwd.net/httpdelivery/lucifer/03leg/07-BAIXO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP07.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T3|EP8
-http://ic-b39dd900-019133-1bjdobr.s.loris.llnwd.net/httpdelivery/lucifer/03leg/08-ALTO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP08.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER LEG T3|EP9
-http://ic-b39dd900-03033a-1bjdobr.s.loris.llnwd.net/httpdelivery/lucifer/03leg/09-ALTO.mp4
-
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP09.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP1
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP01.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP2
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP02.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP3
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP03.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP04.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP5
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP05.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP6
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP06.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP7
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP07.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP8
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP08.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP9
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP09.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP10
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP10.mp4
+#EXTINF:-1 tvg-logo="http://www.minhaserie.com.br/uploads/editor_pictures/000/049/217/content_pic.jpg" group-title="LUCIFER", LUCIFER LEG T4|EP11
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/LCFRS03EP11.mp4
 
 
 THE MAGICIANS DUB
 
 #EXTINF:-1 tvg-logo="http://xsubs.com.br/wp-content/uploads/2016/02/The.Magicians.jpg" group-title="THE MAGICIANS DUB", TMCS T1|EP1
 http://origin.ntcdn.us/content/httpdelivery/magicians/01dub/01-ALTO.mp4
-
 #EXTINF:-1 tvg-logo="http://xsubs.com.br/wp-content/uploads/2016/02/The.Magicians.jpg" group-title="THE MAGICIANS DUB", TMCS T1|EP2
 http://zeus.netcine.tv/httpdelivery/magicians/01dub/02-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://xsubs.com.br/wp-content/uploads/2016/02/The.Magicians.jpg" group-title="THE MAGICIANS DUB", TMCS T1|EP3

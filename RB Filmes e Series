@@ -1,10 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://goo.gl/LmcW3b",TODOS OS CANAIS POR R$35 POR MÊS 
 https://www.youtube.com/watch?v=uo7dhpouWsI
+
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", 2017 DUB
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO", DUB HD
-
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/4731159.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="LANÇAMENTO",Jogos Mortais: Jigsaw LEG HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/aois71" group-title="LANÇAMENTO", EMOJI - O FILME
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/EMJOFLM.mp4 
 #EXTINF:-1 tvg-logo="http://blogs.odiario.com/inforgospel/wp-content/uploads/sites/6/2014/03/filme-noe-censurado-em-paises-islamicos-cartaz-novo.jpg" group-title="DRAMA",Noé DUB HD
@@ -490,161 +491,119 @@ http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KNGSMSVSCRT.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/3LejkF"group-title="LANÇAMENTO",Homem-Aranha: De Volta ao Lar DUB - 2017
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/NhbHsi"group-title="LANÇAMENTO",A Torre Negra (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/ATN2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/transformers-o-ultimo-cavaleiro.jpg"group-title="LANÇAMENTO",Transformers: O Último Cavaleiro (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/CAVALEIRO2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/15aku2"group-title="LANÇAMENTO",Colossal (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/COLOSSAL2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/mwZ2NZ"group-title="LANÇAMENTO",Em Ritmo De Fuga (LEG - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/RITMODEFUGA2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/atfkto"group-title="LANÇAMENTO",A MUMIA (LEG - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/atfkto"group-title="LANÇAMENTO",A MUMIA (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://megafilmestorrents.net/wp-content/uploads/2017/08/Batman-and-Harley-Quinn-post-3.jpg"group-title="ANIMAÇÃO",BATMAN E ARLEQUINA PANCADAS E RISADAS (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/BATMANALERQUINADUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1lpjlRV.jpg"group-title="LANÇAMENTO",Death Note (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/CARDERNODAMORTE2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5pnVtVy.jpg"group-title="LANÇAMENTO", Mulher-Maravilha (DUB - 2017)
+#EXTINF:-1 tvg-logo="https://goo.gl/NhbHsi"group-title="AVENTURA",A Torre Negra DUB - 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ATN2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/transformers-o-ultimo-cavaleiro.jpg"group-title="AÇÃO",Transformers: O Último Cavaleiro (DUB - 2017)
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/TNSFRMRS05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/15aku2"group-title="LANÇAMENTO",Colossal DUB - 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/COLOSSAL2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mwZ2NZ"group-title="LANÇAMENTO",Em Ritmo De Fuga 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ERDF2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/atfkto"group-title="AÇÃO",A MUMIA 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1lpjlRV.jpg"group-title="AÇÃO",Death Note DUB - 2017
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DTHNT.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5pnVtVy.jpg"group-title="AÇÃO", Mulher-Maravilha DUB - 2017
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MLHRMRVLHA.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1R6fA9V.jpg"group-title="LANÇAMENTO",Baywatch: S.O.S. Malibu (LEG - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/BAYWATCHLEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9FRxW1T.jpg"group-title="LANÇAMENTO",Guardiões da Galáxia Vol. 2 (DUB - 2017)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1R6fA9V.jpg"group-title="AÇÃO",Baywatch: S.O.S. Malibu LEG - 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BAYWATCHDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9FRxW1T.jpg"group-title="LANÇAMENTO",Guardiões da Galáxia Vol. 2 DUB - 2017
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9FRxW1T.jpg"group-title="LANÇAMENTO",Guardiões da Galáxia Vol. 1 (DUB - 2017)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9FRxW1T.jpg"group-title="AÇÃO",Guardiões da Galáxia Vol. 1 DUB - 2017
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRDOESDGLXIA.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LXPep6H.jpg"group-title="LANÇAMENTO", Alien: Covenant (DUB - 2017)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LXPep6H.jpg"group-title="LANÇAMENTO", Alien: Covenant DUB - 2017
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENCVNT.mp4 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QINchw4.jpg"group-title="LANÇAMENTO",Rei Arthur – A Lenda da Espada (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QINchw4.jpg"group-title="LANÇAMENTO",Rei Arthur – A Lenda da Espada (LEG - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5nrmOJZ.jpg"group-title="LANÇAMENTO",Z – A Cidade Perdida (LEG - 20170
-http://zeus.netcine.tv/httpdelivery/filmes2017/ZLOSTCITYLEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1C2RKRo.jpg"group-title="FICÇÃO",Blade Runner – o Caçador de Andróides (DUB - 1982)
-http://zeus.netcine.tv/httpdelivery/filmes2017/BLADERUNNERDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FnvLF0M.jpg"group-title="SUSPENSE",O Círculo (LEG - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/OCIRCULOLEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QINchw4.jpg"group-title="LANÇAMENTO",Rei Arthur – A Lenda da Espada DUB - 2017
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/REARTHRALNDESPDA.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5nrmOJZ.jpg"group-title="LANÇAMENTO",Z – A Cidade Perdida 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ZDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1C2RKRo.jpg"group-title="FICÇÃO",Blade Runner – o Caçador de Andróides DUB - 1982
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BLDRNER.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k6njvBy.jpg"group-title="NACIONAL",O Vendedor de Sonhos (2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/VENDEDORSONHOS-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VENDEDORSONHOS-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/twSBaLy.jpg"group-title="DRAMA",FOME DE PODER (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/FOMED4PODERDUB-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/FOMED4PODERDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9OfuO2d.jpg"group-title="NACIONAL",Internet – O Filme (2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/INTERNETMOVIE-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/INTNET.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KAG8TIK.jpg"group-title="NACIONAL",Eu Fico Loko (2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/EUFICOLOUCO-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/EUFICOLOUCO-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/O9sjNUP.jpg"group-title="NACIONAL",Ninguém Entra, Ninguém Sai (2017)- 
-http://zeus.netcine.tv/httpdelivery/filmes2017/NINGUEMENTRASAI2017-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bIYhE2z.jpg"group-title="LANÇAMENTO",A Cabana (2017 - DUB)
-http://zeus.netcine.tv/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bIYhE2z.jpg"group-title="LANÇAMENTO",A Cabana (2017 - LEG)
-http://zeus.netcine.tv/httpdelivery/filmes2017/4C4B4N42017LEGENDADO-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/NINGUEMENTRASAI2017-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bIYhE2z.jpg"group-title="LANÇAMENTO",A Cabana 2017 - DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ACABANA2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8TolrfK.jpg"group-title="LANÇAMENTO",A Vigilante do Amanhã: Ghost in the Shell (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/GHOSTDUB2017-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UHDtxti.jpg"group-title="FICÇÃO",A Chegada (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/CH4GADADUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hpx0VeZ.jpg"group-title="ANIMAÇÃO", Resident Evil Vendetta (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/EVILDUB2017-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hpx0VeZ.jpg"group-title="ANIMAÇÃO", Resident Evil Vendetta (LEG - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/321123-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IKBTsfO.jpg"group-title="AVENTURA", Okja (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/OKJA2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IKBTsfO.jpg"group-title="AVENTURA", Okja (LEG - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/OKJA2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/l3vc1Cr.jpg"group-title="ANIMAÇÃO", O Poderoso Chefinho (DUB - 2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/GHOSTDUB2017-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UHDtxti.jpg"group-title="FICÇÃO",A Chegada DUB - 2017
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ACHGDA.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hpx0VeZ.jpg"group-title="ANIMAÇÃO", Resident Evil Vendetta DUB - 2017
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/REVILAVNGNC.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IKBTsfO.jpg"group-title="AVENTURA", Okja DUB - 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/OKJA2017LEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/l3vc1Cr.jpg"group-title="ANIMAÇÃO", O Poderoso Chefinho DUB - 2017
 http://zeus.netcine.tv/httpdelivery/filmes2017/CHEFINHO2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uNutCsq.jpg"group-title="AVENTURA",A Bela e a Fera (DUB 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/BELAFERA2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uNutCsq.jpg"group-title="AVENTURA",A Bela e a Fera (LEG 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/ABELAEFERA2017-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xYLIvs9.jpg"group-title="AVENTURA",Kong: A Ilha da Caveira (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/CAVEIRA2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xYLIvs9.jpg"group-title="AVENTURA",Kong: A Ilha da Caveira (LEG - 2017)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/KONGLEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MjhU5IP.jpg"group-title="FICÇÃO",Vida (2017 - DUB)
-http://zeus.netcine.tv/httpdelivery/filmes2017/VIDAFILME2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3BHfTvO.jpg"group-title="FICÇÃO",Vida (2017 - LEG)
-http://zeus.netcine.tv/httpdelivery/filmes2017/VIDAFILME2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LyROenn.jpg"group-title="AVENTURA",Logan (2017 - DUB)
-http://zeus.netcine.tv/httpdelivery/filmes2017/L0G4NDUB2017-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rwBOhPM.jpg"group-title="AVENTURA",Logan (2017 LEG)
-http://zeus.netcine.tv/httpdelivery/filmes2017/L0G4NLEG2017-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RQeZ9tZ.jpg"group-title="ANIMAÇÃO",DC Vixen – O Filme (2017 - LEG)
-http://zeus.netcine.tv/httpdelivery/filmes2017/VIXEN2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yDwijEZ.jpg"group-title="ANIMAÇÃO",LEGO Batman: O Filme (2017 - DUB)
-http://zeus.netcine.tv/httpdelivery/filmes2017/LEG0B4TM4NDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uNutCsq.jpg"group-title="AVENTURA",A Bela e a Fera DUB 2017
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ABLEAFR.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xYLIvs9.jpg"group-title="AVENTURA",Kong: A Ilha da Caveira DUB - 2017
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/KONGAILHCVR.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MjhU5IP.jpg"group-title="FICÇÃO",Vida 2017 - DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VIDAFILME2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LyROenn.jpg"group-title="AVENTURA",Logan 2017 - DUB
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LOGN.mp4
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/36/590x/logan-noir-review-827309.jpg"group-title="AVENTURA",Logan Noir 2017 DUB
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LOGNNOIR.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GNN0L8r.png"group-title="AÇÃO",John Wick – Um Novo Dia para Matar (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/JOHNWICKDUBB-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JOHNWICKDUBB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0zV438c.jpg"group-title="DRAMA",Silêncio (LEG - 2017)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/SILENCLEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/t1zQIhs.jpg"group-title="SUSPENSE",Fragmentado (DUB - 2017)
-http://zeus.netcine.tv/httpdelivery/filmes2017/FRAGDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/t1zQIhs.jpg"group-title="SUSPENSE",Fragmentado (Leg - 2017)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/SPLITLEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1j6avGn.jpg"group-title="AVENTURA,Portal dos Guerreiros - LEG - 2017
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/WARRLEG-ALTO.mp4
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/SILENCLEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t1zQIhs.jpg"group-title="SUSPENSE",Fragmentado DUB - 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/FRAGDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9O4hBqe.jpg"group-title="FICÇÃO,Resident Evil 6: O Capítulo Final - Dub - 2017
-https://goo.gl/st8e7f
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aKfOnp6.jpg"group-title="FICÇÃO,Resident Evil 6: O Capítulo Final - LEG - 2016
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/REESILEG-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jQ6uytT.jpg"group-title="FICÇÃO,Assassin’s Creed - DUB - 2017
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/ASSADUBLA-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jQ6uytT.jpg"group-title="FICÇÃO,Assassin’s Creed - LEG - 2017
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/ASSADUB-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASINSCRD.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dT7Zr1n.jpg"group-title="AÇÃO,Busca Explosiva 5: Campo de Batalha - Dub - 2017
-https://goo.gl/5U3dgY
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV5.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/L9jVwkE.jpg"group-title="DRAMA,A Fabulosa Gilly Hopkins - Dub - 2017
-https://goo.gl/dREyQp
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AFBLSGLHP.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Al4lmsM.jpg"group-title="DRAMA,Apostando Tudo - Dub - 2017
-https://goo.gl/zddjdM
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1xuKxCM.jpg"group-title="NACIONAL,Internet: O Filme (Nacional) - 2017
-https://goo.gl/anzHeB
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/APSTNDTD.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JjrT51q.jpg"group-title="ANIMAÇÃO,A Bailarina - Dub - 2017
-https://goo.gl/zXqtZY
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3B6ws6B.jpg"group-title="DRAMA,Armas na Mesa - Dub - 2017
-https://goo.gl/xLJj2y
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ARMSNMSA.mp4
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/JOVENSDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4JT3XQS.jpg"group-title="AVENTURA",A Grande Muralha - LEG
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/GREATDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4JT3XQS.jpg"group-title="AVENTURA",A Grande Muralha - DUB
-https://1fjiw5z.oloadcdn.net/dl/l/vtndCcdmDGR3WP73/PRAkUZAGd2s/4.GR4ND3.MUR4LH4.avi.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4JT3XQS.jpg"group-title="AVENTURA",A Grande Muralha
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/GREATDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wvMdhiO.jpg"group-title="FICÇÃO",Rogue One – Uma História Star Wars - DUB - 2016
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/ROGUEDUBB-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/RGONUHSTRWRS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6tR4Ati.png"group-title="COMEDIA",Tinha Que Ser Ele?
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/TINHADUB-ALTO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/TNHQSRELE.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kqTVhK3.jpg"group-title="FICÇÃO",Passageiros - 2016
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/PASDUB-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PASGRIOS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hrYnqxj.jpg"group-title="NACIONAL",Minha Mãe é uma Peça 2 - Nacional
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/MINHAMAE-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MNHMAEUMPC2.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Iu0464"group-title="AVENTURA",Harry Potter e a Pedra Filosofal - 2001
-http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP01DUB-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/OTTs3T"group-title="AVENTURA",Harry Potter e a Câmara Secreta - 2002
-http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP02DUB-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/4YjHP1"group-title="AVENTURA",Harry Potter e o Prisioneiro de Azkaban - 2004
-http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP03DUB-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Rt9nur"group-title="AVENTURA",Harry Potter e o Cálice de Fogo - 2005
-http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP04DUB-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/DH0tH0"group-title="AVENTURA",Harry Potter e a Ordem da Fênix - 2007
-http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP05DUB-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hKnM07"group-title="AVENTURA",Harry Potter e o Enigma do Príncipe - 2009
-http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP06DUB-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/vaUHwi"group-title="AVENTURA",Harry Potter e as Relíquias da Morte - Parte 1 - 2010
-http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP07DUB-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/i4D3B2"group-title="AVENTURA",Harry Potter e as Relíquias da Morte - Parte 2 - 2011
-http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP08DUB-ALTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR08.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/e8Idloe.jpg"group-title="AVENTURA",Animais Fantásticos e Onde Habitam - 2016
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/ANIMAISDUB-ALTO.mp4
- #EXTINF:-1 tvg-logo="http://i.imgur.com/43V6H0Q.jpg"group-title="AVENTURA",Doutor Estranho - 2016
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/dstrange/DS2016DUB-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/43V6H0Q.jpg"group-title="AVENTURA",Doutor Estranho - 2016
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pgebagS.jpg"group-title="ANIMAÇÃO",Liga da Justiça Sombria 2017
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/animacoes/ljdark/LJSDUB-ALTO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/LGDJSTCSMBRA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/NM74QW"group-title="SUSPENSE,12 HORAS
 http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pXjp45"group-title="SUSPENSE,A BEIRA DO ABISMO
@@ -659,12 +618,8 @@ http://media-br-am.crackle.com/1/v/z6/gsvlf_480p_1mbps.mp4
 http://media-br-am.crackle.com/1/g/z6/otvlf_480p_1mbps.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/krzCrK"group-title="COMEDIA,A HERANÇA DE MR.DEEDS
 http://media-br-am.crackle.com/1/g/n6/r7ulf_480p_1mbps.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/p4QHR3w91BzRPyS8biqskZLNs0z.jpg"group-title="ROMANCE",A Proposta
-http://assistir.querofilmehd.com/filmes/A.Proposta.2009.1080p.BluRay.AC3.X264-Lozanoallan(1).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xwNqLrw5uwWjCdBS4cnf5DLeClR.jpg"group-title="ROMANCE",P.S. Eu Te Amo
-http://assistir.querofilmehd.com/filmes/P.S.I.Love.You.2007.720p.Dual.BluRay.x264-MACFLAX(1).mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg"group-title="FICÇÃO",Gravidade
-http://assistir.querofilmehd.com/filmes/Gravity.2013.720p.BluRay.x264.SPARKS.DualAudio-Highvoltage.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/GRVD.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/aHtqau"group-title="COMEDIA",A HORA DO RANGO
 http://media-br-am.crackle.com/1/u/l6/7ewlf_480p_1mbps.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/eYLNP9"group-title="DRAMA",A INFORMANTE
@@ -739,27 +694,27 @@ http://media-br-am.crackle.com/1/y/f6/76ylf_480p_1mbps.mp4
 http://media-br-am.crackle.com/1/z/f6/c7ylf_480p_1mbps.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ZPVJe6"group-title="ROMANCE",UM BEIJO ROUBADO
 http://media-br-am.crackle.com/1/z/z6/tsvlf_480p_1mbps.mp4
-
 #EXTINF:-1 tvg-logo="https://goo.gl/eegAv6" group-title="DRAMA" ,JUVENTUDES ROUBADAS (2015)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JUVTNDROBDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JUVTNDROBDS.mp4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Bw_DM6aIQAAujDJ.jpg" group-title="AÇÃO" ,KARATÊ KID (2010)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKDRMK1.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKDRMK1.mp4
 #EXTINF:-1 tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2015/05/Karate-Kid-2-A-Hora-da-Verdade-Continua.jpg" group-title="AÇÃO" ,KARATÊ KID 2: A HORA DA VERDADE CONTINUA (1986)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD2.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD2.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/87/Karate_kid_part_iii.jpg" group-title="AÇÃO" ,KARATÊ KID 3: O DESAFIO FINAL (1989)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD3.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD3.mp4
 #EXTINF:-1 tvg-logo="https://filmes-online.pt/media/28/karate-kid-4-a-nova-aventura_70092283.jpg" group-title="AÇÃO" ,KARATÊ KID 4: A NOVA AVENTURA (1995)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD4.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD4.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/UJ1dPa" group-title="AÇÃO" ,KARATÊ KID: A HORA DA VERDADE (1984)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD1.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/HuwfJU" group-title="AÇÃO" ,KILL BILL - VOLUME 1 (2003)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KLBILV1.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KLBILV1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9v2ATD" group-title="AÇÃO" ,KILL BILL - VOLUME 2 (2004)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KLBILV2.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KLBILV2.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pVqR7v" group-title="ANIMAÇÃO" ,KUNG FU PANDA (2008)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ARYTE4" group-title="ANIMAÇÃO" ,KUNG FU PANDA 2 (2011)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP1

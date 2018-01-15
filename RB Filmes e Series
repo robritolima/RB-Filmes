@@ -4,6 +4,21 @@ https://www.youtube.com/watch?v=uo7dhpouWsI
 
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", DUB HD
 
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/29/99/19874070.jpg"group-title="FICÇÃO",Distrito 9 DUB HD
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DISTRIT9.mp4
+#EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2016/06/startreksemfronteiras_6-750x380.jpg"group-title="FICÇÃO",Star Trek: Sem Fronteiras 2016 DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/STRTRK13.mp4
+#EXTINF:-1 tvg-logo="http://www.cinepop.com.br/cartazes/alemdaescuridaostartrek_4.jpg"group-title="FICÇÃO",Star Trek:Além da Escuridão 2013 DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/JORNDMSESTRLS12.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-jwUnt9Pp9S4/UhorHhgqJtI/AAAAAAAAAlw/R9m82atYxbM/s1600/Star+Trek.jpg"group-title="FICÇÃO",Star Trek 2009 DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/STRTRK11.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/10/24/15/39/5296838.jpg"group-title="FICÇÃO",Spectral DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SPCTRL.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/10/24/12/46/5167849.jpg"group-title="FICÇÃO",iBoy DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/IBOY.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-lzus4aTk6sg/WVO0rTnAZmI/AAAAAAAAEls/fRzDTICGZjA7Ya0FWni_81ehl8kVLIGbwCLcBGAs/w1200-h630-p-k-no-nu/A%2BDescoberta%2B%25282017%2529%2B-%2BCapa%2BFilme%2BDVD.jpg"group-title="FICÇÃO",A Descoberta DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ADSCBRT.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/07/552532.jpg"group-title="FICÇÃO",A Chegada DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CH4GADADUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BpOFa91dxfs/maxresdefault.jpg"group-title="FICÇÃO",Blade Runner, o Caçador de Andróides 1982 DUB HD

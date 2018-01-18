@@ -4,6 +4,10 @@ https://www.youtube.com/watch?v=uo7dhpouWsI
 
 #EXTINF:-1 tvg-logo=""group-title="ROMANCE", DUB HD
 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/210/049/21004903_20130510170049514.jpg"group-title="COMEDIA",Gente Grande 2 DUB HD
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/GNTGRND2.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-2433-1001.1.nflxso.net/art/d0069/955c9f1836e7f7ee6bc2192546f1ae76207d0069.jpg"group-title="COMEDIA",Cara Gente Branca DUB HD
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CARGNTBRNC.mp4
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-zSbHYDBdR0Y/U_h3ZrHePDI/AAAAAAAAMN4/hVGlXMfZ0cY/s1600/Nao%2BMe%2BAbandone%2BJamais.jpg"group-title="ROMANCE",Não Me Abandone Jamais DUB HD
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/NMABNDJMS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/15/13/03/0368624.jpg"group-title="LANÇAMENTO",Nossas Noites DUB HD

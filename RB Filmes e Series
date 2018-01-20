@@ -3,6 +3,10 @@
 https://www.youtube.com/watch?v=uo7dhpouWsI
 
 #EXTINF:-1 tvg-logo=""group-title="ROMANCE", DUB HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/4872687.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="LANÇAMENTO",Voldemort: Origins of the Heir LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/1542819.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="LANÇAMENTO",Scooby-Doo & Batman: Os Bravos e Destemidos DUB HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/210/049/21004903_20130510170049514.jpg"group-title="COMEDIA",Gente Grande 2 DUB HD
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/GNTGRND2.mp4
@@ -812,7 +816,8 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ARYTE4" group-title="ANIMAÇÃO" ,KUNG FU PANDA 2 (2011)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
 
-
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/01-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP1
 http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/01-ALTO.mp4

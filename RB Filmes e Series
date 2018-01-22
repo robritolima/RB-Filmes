@@ -2456,6 +2456,10 @@ http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/06-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/07-ALTO.mp4
 #EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP8
 http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/08-ALTO.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/09-ALTO.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/10-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2016/10/10115908/S%C3%A9rie-3-Netflix-840x469.jpg" ,group-title="3%", 3% T1|EP1
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP01.mp4
@@ -3353,10 +3357,13 @@ http://zeus.netcine.tv/httpdelivery/dbs/06leg/116-ALTO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 117
 http://zeus.netcine.tv/httpdelivery/dbs/06leg/117-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.118
-https://www.blogger.com/video-play.mp4?contentId=0c3bd4e991e53989
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP118.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.119
-https://www.blogger.com/video-play.mp4?contentId=7d82772f41bf7195
-
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP119.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.120
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP120.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.121
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP121.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="FEAR THE WALKING DEAD", FEAR THE WALKING DEAD T1|EP1
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/FRTWDT01EP01.mp4
@@ -3693,7 +3700,24 @@ http:// cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP21.mp4#RB_FILMES
 http:// cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP22.mp4#RB_FILMES
 #EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T5|EP23
 http:// cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP23.mp4
-
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T6|EP1
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP01.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T6|EP2
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP02.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T6|EP3
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP03.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T6|EP4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP04.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T6|EP5
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP05.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T6|EP6
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP06.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T6|EP7
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP07.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T6|EP8
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP08.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO T6|EP9
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP09.mp4
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP1

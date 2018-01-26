@@ -775,9 +775,31 @@ http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/mg/01leg/19-ALTO.mp4
 http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/mg/01leg/20-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T1|EP21
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MACGYVRS01EP21.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T1|EP22
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP8
 
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP9
 
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/1-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP11
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver LEG T2|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/12-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/01-ALTO.mp4

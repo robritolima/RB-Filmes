@@ -804,6 +804,9 @@ http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/12-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/02-ALTO.mp4
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP1
 http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/01-ALTO.mp4

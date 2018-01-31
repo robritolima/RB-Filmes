@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=""group-title="ROMANCE", DUB HD
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", DUB HD
 
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/BATMAN.jpg"group-title="LANÇAMENTO",Batman: Gotham by Gaslight DUB HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GOTHAMGASLIGHT18LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/2418041.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="LANÇAMENTO",Vende-se Esta Casa LEG HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/175443.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="LANÇAMENTO",Thor: Ragnarok LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://www.telecineon.com.br/arquivo/filme/37a838ec1dcd226538ca730c49050923.jpg"group-title="LANÇAMENTO",Kite: Anjo Da Vingança DUB HD
@@ -712,8 +716,6 @@ http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pgebagS.jpg"group-title="ANIMAÇÃO",Liga da Justiça Sombria 2017
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/LGDJSTCSMBRA.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/NM74QW"group-title="SUSPENSE,12 HORAS
-http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Bw_DM6aIQAAujDJ.jpg" group-title="AÇÃO" ,KARATÊ KID (2010)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKDRMK1.mp4
 #EXTINF:-1 tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2015/05/Karate-Kid-2-A-Hora-da-Verdade-Continua.jpg" group-title="AÇÃO" ,KARATÊ KID 2: A HORA DA VERDADE CONTINUA (1986)
@@ -732,6 +734,132 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KLBILV2.mp4
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ARYTE4" group-title="ANIMAÇÃO" ,KUNG FU PANDA 2 (2011)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP1
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP2
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP3
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP4
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP5
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP6
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP7
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP8
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP9
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP10
+http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP11
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP12
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP13
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP14
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP15
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP16
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP17
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP18
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP19
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP20
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP21
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP22
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT01EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP1
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP2
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP3
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP4
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP5
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP6
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP7
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP8
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP9
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP10
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP11
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP12
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP13
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP14
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP15
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP16
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP17
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP18
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP19
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP20
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP21
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP22
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/AGTOSHLDT02EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP1
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP2
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP3
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP5
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP6
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP7
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP8
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP9
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP10
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP11
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP12
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP13
+
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP14
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP15
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP16
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP17
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP18
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP19
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP20
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP21
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP22
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/AGTOSHLDT03EP22.mp4
 
 
 

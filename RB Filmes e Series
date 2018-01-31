@@ -733,6 +733,49 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ARYTE4" group-title="ANIMAÇÃO" ,KUNG FU PANDA 2 (2011)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
 
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E01/02 - LEG
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E03 - LEG
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E04 - LEG
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E05 - LEG
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E06 - LEG
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E07 - LEG
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E08 - LEG
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/08-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP11
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/startrekd/01leg/12-ALTO.mp4
+
+
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver DUB T1|EP1
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/MACGYVRT01EP01.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover.jpg" group-title="MacGyver",MacGyver DUB T1|EP2
@@ -3454,195 +3497,6 @@ http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05leg/08-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05leg/09-ALTO.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP01
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP01.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP02
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP02.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP03
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP03.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP04
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP04.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP05
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP05.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP06
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP06.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP07
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP07.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP08
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP08.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP09
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP09.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP10.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP11.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP12.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP13.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP14
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP14.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP15
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP15.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP16
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP16.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP17
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP17.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP18
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP18.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP19
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP19.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP20
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP20.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP21
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP21.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP22
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP22.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP23
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP23.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP24
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP24.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP25
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP25.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T1|EP26
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP26.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP01
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP27.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP02
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP28.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP03
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP29.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP04
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP30.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP05
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP31.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP06
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP32.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP07
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP33.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP08
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP34.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP09
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP35.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP36.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP37.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP38.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP39.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP14
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP40.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP15
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP41.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP16
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP42.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP17
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP43.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP18
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP44.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP19
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP45.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP20
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP46.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP21
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP47.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP22
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP48.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP23
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP49.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP24
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP50.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP25
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP51.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T2|EP26
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTEP52.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP1
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP1.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP2
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP2.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP3
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP3.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP4
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP4.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP5
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP5.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP6
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP6.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP7
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP7.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP8
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP8.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP9
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP9.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP10.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP11.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP12.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP13.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP14
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP14.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP15
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP15.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP16
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP16.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP17
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP17.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP18
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP18.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP19
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP19.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP20
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP20.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP21
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP21.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP22
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP22.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP23
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP23.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP24
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP24.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP25
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP25.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T3|EP26
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP26.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T4|EP1
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP27.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T4|EP2
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP28.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T4|EP3
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP29.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T4|EP4
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP30.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T4|EP5
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP31.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhxQSn.jpg" group-title=" LIGA DA JUSTIÇA SEM LIMITES", L.J.S.L. T4|EP6
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP32.mp4
-
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E01/02 - LEG
-http://zeus.netcine.tv/httpdelivery/inhumans/01leg/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E03 - LEG
-http://zeus.netcine.tv/httpdelivery/inhumans/01leg/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E04 - LEG
-http://zeus.netcine.tv/httpdelivery/inhumans/01leg/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E05 - LEG
-http://ic-b39dd100-07d906-1bjdobr.s.loris.llnwd.net/httpdelivery/inhumans/01leg/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E06 - LEG
-http://ic-b39dd100-0a22cd-1bjdobr.s.loris.llnwd.net/httpdelivery/inhumans/01leg/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E07 - LEG
-http://ic-b39dd100-05336d-1bjdobr.s.loris.llnwd.net/httpdelivery/inhumans/01leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E08 - LEG
-http://ic-b39dd100-06390c-1bjdobr.s.loris.llnwd.net/httpdelivery/inhumans/01leg/08-ALTO.mp4
-
-
-
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP1
 http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/07/lucifer2atempposter.jpg" group-title="LUCIFER", LUCIFER T1|EP2
@@ -3960,26 +3814,6 @@ http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/QNTCT02EP20.mp4
 http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/QNTCT02EP21.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/pictures/15/07/21/15/36/417404.jpg" group-title="QUANTICO DUB", QNTO T2|EP22
 http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/QNTCT02EP22.mp4
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP1
-http://ic-b39dd100-055e7e-1bjdobr.s.loris.llnwd.net/httpdelivery/startrekd/01leg/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP2
-http://ic-b39dd100-0d34b1-1bjdobr.s.loris.llnwd.net/httpdelivery/startrekd/01leg/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP3
-http://ic-b39dd100-07ea77-1bjdobr.s.loris.llnwd.net/httpdelivery/startrekd/01leg/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP4
-http://ic-b39dd100-0ab2df-1bjdobr.s.loris.llnwd.net/httpdelivery/startrekd/01leg/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP5
-http://ic-b39dd100-15001a-1bjdobr.s.loris.llnwd.net/httpdelivery/startrekd/01leg/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP6
-http://ic-b39dd100-0ba213-1bjdobr.s.loris.llnwd.net/httpdelivery/startrekd/01leg/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP7
-http://ic-b39dd100-09000e-1bjdobr.s.loris.llnwd.net/httpdelivery/startrekd/01leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP8
-http://ic-b39dd100-115aaa-1bjdobr.s.loris.llnwd.net/httpdelivery/startrekd/01leg/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/yuGtxV" group-title="Star Trek: Discovery", Star Trek Discovery LEG T1|EP9
-http://ic-b39dd100-10e4fb-1bjdobr.s.loris.llnwd.net/httpdelivery/startrekd/01leg/09-ALTO.mp4
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bmYLzp" group-title="SOBRENATURAL", SOBRENATURAL T1|EP1

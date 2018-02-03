@@ -735,6 +735,28 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ARYTE4" group-title="ANIMAÇÃO" ,KUNG FU PANDA 2 (2011)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/10-ALTO.mp4
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP1
 http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/AGTOSHLDT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP2

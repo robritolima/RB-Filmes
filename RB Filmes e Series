@@ -735,6 +735,23 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ARYTE4" group-title="ANIMAÇÃO" ,KUNG FU PANDA 2 (2011)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP1
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/AMRCGDST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP2
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP3
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP4
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP5
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP6
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP7
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP8
+http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP08.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP2

@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", DUB HD
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MtuarxX9brs/Wmi1x_eckgI/AAAAAAAANqM/piAJPC1lq3MjIiM1Ie4Q_adZxAd8654nACLcBGAs/s320/231007.jpg"group-title="LANÇAMENTO",Pica-Pau: O Filme DUB HD
-http://s004.thevid.net/v/5a3c49bb6ee2741727efc832272a2259.mp4?e=1518070762&sa=6EB9FukvvAXtXdrurkL9ow&st=aySrsp532DCfqOh1FV8FXw
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/BATMAN.jpg"group-title="LANÇAMENTO",Batman: Gotham by Gaslight DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GOTHAMGASLIGHT18LEG-ALTO.mp4
@@ -1087,7 +1085,10 @@ http://cdn1.ntcdn.us/content/httpdelivery/mg/02leg/12-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP2
 http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/02-ALTO.mp4
-
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/003-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/04-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP1
 http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/01-ALTO.mp4
@@ -3438,6 +3439,9 @@ http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP09.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/arrow/06leg/10-ALTO.mp4
 #EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO LEG T6|EP11
 http://cdn1.ntcdn.us/content/httpdelivery/arrow/06leg/0011-ALTO.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="ARQUEIRO" ARQUEIRO LEG T6|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/arrow/06leg/12-ALTO.mp4
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP1
 http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP01.mp4
@@ -3595,6 +3599,15 @@ http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP07.mp4
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP08.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP09
 http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP010
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/A10-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP011
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/FLASH4X11F-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP012
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/FLASH12-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP013
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/0FLASH1300-ALTO.mp4
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP1 (LEG)
 http://zeus.netcine.tv/httpdelivery/themist/01leg/01-ALTO.mp4

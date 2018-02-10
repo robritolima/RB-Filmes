@@ -2,6 +2,16 @@
 
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", DUB HD
 
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/419991.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="LANÇAMENTO",Pica-Pau: O Filme DUB HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PICAPAU2018DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/murder.jpg"group-title="LANÇAMENTO",Assassinato no Expresso do Oriente LEG HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUDERONTHEEXPRESS2017LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/post.jpg"group-title="LANÇAMENTO",The Post: A Guerra Secreta LEG HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/satan.jpg"group-title="LANÇAMENTO",American Satan LEG HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/0260439.jpg"group-title="LANÇAMENTO",Liga da Justiça DUB HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/POSTER-Extraordinario-1.png"group-title="LANÇAMENTO",Extraordinário LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/cloverfiedl.jpg"group-title="LANÇAMENTO",O Paradoxo Cloverfield DUB HD

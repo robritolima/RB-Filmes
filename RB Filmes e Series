@@ -749,6 +749,34 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ARYTE4" group-title="ANIMAÇÃO" ,KUNG FU PANDA 2 (2011)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/08ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/09ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP11
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP13
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/13-BAIXO.mp4
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP1
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/AMRCGDST01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/KDqFN4"group-title="American Gods",American Gods DUB T1|EP2

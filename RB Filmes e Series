@@ -749,6 +749,27 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ARYTE4" group-title="ANIMAÇÃO" ,KUNG FU PANDA 2 (2011)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/10-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP2

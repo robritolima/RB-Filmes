@@ -2,6 +2,14 @@
 
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", DUB HD
 
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/1080x1620_1507150771.jpg"group-title="LANÇAMENTO",Pai em Dose Dupla 2 DUB HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/images.jpeg"group-title="LANÇAMENTO",O Destino de uma Nação LEG HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/spi.jpg"group-title="LANÇAMENTO",Espião por Acaso DUB HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ESPIAO2018LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/spi-1.jpg"group-title="LANÇAMENTO",Loucuras em Família DUB HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/419991.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="LANÇAMENTO",Pica-Pau: O Filme DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PICAPAU2018DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/murder.jpg"group-title="LANÇAMENTO",Assassinato no Expresso do Oriente LEG HD

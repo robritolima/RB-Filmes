@@ -87,32 +87,16 @@ http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJEXRCMS.mp4
 http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJORGMDML.mp4
 #EXTINF:-1 tvg-logo="http://www.ftp-silver.com.br/wp-content/uploads/IC_O-CHAMADO-3.png"group-title="TERROR",O Chamado 3 DUB HD
 http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/06/16/28/110388.jpg"group-title="TERROR",O Quarto Dos Esquecidos DUB HD
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OQRTDSESQCDS.mp4
+http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OQRTDSESQCDS.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dBoJ5P9goLc/movieposter.jpg"group-title="TERROR",Creep 2 DUB HD
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CREP2.mp4
+http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CREP2.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-WhEYOCU0PO0/Wkj6sUfX3ZI/AAAAAAAANVg/-ddrKA7sIu8ne7o-67ZfoRJLJ9Sf0148gCLcBGAs/s320/A-Casa-do-Fim-dos-Tempos-4-min.jpg"group-title="TERROR",A Casa Fim dos Tempos DUB HD
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACSDFMDSTMP.mp4
+http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACSDFMDSTMP.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IYrlDK.jpg"group-title="TERROR",Candyman: Dia dos Mortos DUB HD
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CNDMN3.mp4
+http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CNDMN3.mp4
 #EXTINF:-1 tvg-logo="http://quadro-a-quadro.blog.br/wp-content/uploads/2015/10/The-33-13Agosto2015.jpg"group-title="DRAMA",Os 33 DUB HD
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OS33.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/05/04/22/05/380484.jpg"group-title="AÇÃO",Sharknado DUB HD
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND1.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/02/03/12/44/063044.jpg"group-title="AÇÃO",Sharknado 2: A Segunda Onda DUB HD
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND2.mp4
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/--J2bBBUq7Dk/VbcHKdy0xOI/AAAAAAAAQ4k/gSf2se04Xtc/s1600/Sharknado%2B3%2B-%2BOh%2BHell%2BNo%2521.jpg"group-title="AÇÃO",Sharknado 3: Oh, Não!  DUB HD
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND3.mp4
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qaRhoGcK8GU/V7Uu_zdCwaI/AAAAAAAAR9c/Gjf4xEnMqJAy1-qpB-GeczVM4UJC19TUgCLcB/s1600/Sharknado%2B4%2B-%2BThe%2B4th%2BAwakens.jpg"group-title="AÇÃO",Sharknado: Corra Para o Quarto DUB HD
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND4.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/06/27/13/30/505431.jpg"group-title="AÇÃO",Sharknado 5: Voracidade Global DUB HD
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND5.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OS33.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u8dxisj-iBo/Vm-T-frlLQI/AAAAAAAAUn0/-joSkgpuspA/s1600/Apenas%2BUm%2BShow%2B-%2BO%2BFilme.jpg"group-title="ANIMAÇÃO",Apenas um Show: O Filme DUB HD
 http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APNSUSWOFILME.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/04/27/19/27/443743.jpg"group-title="ANIMAÇÃO",Angry Birds: O Filme DUB HD
@@ -121,6 +105,12 @@ http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
 http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AERDGLOBB.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/pictures/16/07/27/12/37/174206.jpg"group-title="ANIMAÇÃO",Cantando de Galo DUB HD
 http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CATNDGL.mp4
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/05/443417.jpg"group-title="AVENTURA",Homem-Formiga DUB HD
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HMNFRMGA.mp4

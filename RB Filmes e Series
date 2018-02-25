@@ -513,13 +513,13 @@ http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/04-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/05-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP5
 http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T5|EP6
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP6
 http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T5|EP7
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP7
 http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T5|EP8
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP8
 http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T5|EP9
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP9
 http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/09-ALTO.mp4
 
 
@@ -645,23 +645,23 @@ http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/04-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/05-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP1
-http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/01-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP2
-http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/02-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/02-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP3
-http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/03-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/03-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP4
-http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/04-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/04-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP5
-http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/05-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/05-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP6
-http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/06-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/06-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP7
-http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/07-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/07-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP8
-http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/08-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/08-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO FIM TEMPORADA DUB T1|EP9
-http://zeus.netcine.tv/httpdelivery/sobpressao/01dub/09-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/09-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2hwGI2K" group-title="GOTHAM", GOTHAM T1|EP1
 http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP01.mp4
@@ -3349,39 +3349,39 @@ http://zeus.netcine.tv/httpdelivery/magicians/02dub/13-ALTO.mp4
 
 ################################################################################# Série STRANGER THINGS DUB
 
-#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS LEG", SRTS T1|EP1
+#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS", SRTS LEG T1|EP1
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/st/01leg/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS LEG", SRTS T1|EP2
+#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS", SRTS LEG T1|EP2
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/st/01leg/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS LEG", SRTS T1|EP3
+#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS", SRTS LEG T1|EP3
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/st/01leg/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS LEG", SRTS T1|EP4
+#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS", SRTS LEG T1|EP4
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/st/01leg/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS LEG", SRTS T1|EP5
+#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS", SRTS LEG T1|EP5
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/st/01leg/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS LEG", SRTS T1|EP6
+#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS", SRTS LEG T1|EP6
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/st/01leg/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS LEG", SRTS T1|EP7
+#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS", SRTS LEG T1|EP7
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/st/01leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS DUB", SRTS T1|EP8
+#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg" group-title="STRANGER THINGS", SRTS LEG T1|EP8
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/st/01leg/08-ALTO.mp4
-#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS DUB", SRTS T2|EP1
+#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS", SRTS DUB T2|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/stgs/02dub/01-ALTO.mp4
-#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS DUB", SRTS T2|EP2
+#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS", SRTS DUB T2|EP2
 hhttp://cdn1.ntcdn.us/content/httpdelivery/stgs/02dub/02-ALTO.mp4
-#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS DUB", SRTS T2|EP3
+#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS", SRTS DUB T2|EP3
 http://cdn1.ntcdn.us/content/httpdelivery/stgs/02dub/03-ALTO.mp4
-#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS DUB", SRTS T2|EP4
+#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS", SRTS DUB T2|EP4
 http://cdn1.ntcdn.us/content/httpdelivery/stgs/02dub/04-ALTO.mp4
-#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS DUB", SRTS T2|EP5
+#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS", SRTS DUB T2|EP5
 http://cdn1.ntcdn.us/content/httpdelivery/stgs/02dub/05-ALTO.mp4
-#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS DUB", SRTS T2|EP6
+#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS", SRTS DUB T2|EP6
 http://cdn1.ntcdn.us/content/httpdelivery/stgs/02dub/06-ALTO.mp4
-#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS DUB", SRTS T2|EP7
+#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS", SRTS DUB T2|EP7
 http://cdn1.ntcdn.us/content/httpdelivery/stgs/02dub/07-ALTO.mp4
-#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS DUB", SRTS T2|EP8
+#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS", SRTS DUB T2|EP8
 http://cdn1.ntcdn.us/content/httpdelivery/stgs/02dub/08-ALTO.mp4
-#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS DUB", SRTS T2|EP9
+#EXTINF:-1 tvg-logo=" https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/7/165817/original/poster.jpg " group-title="STRANGER THINGS", SRTS DUB T2|EP9
 http://cdn1.ntcdn.us/content/httpdelivery/stgs/02dub/09-ALTO.mp4
 
 

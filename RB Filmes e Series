@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", DUB HD
 
 #############################LANÇAMENTO##############################################################
-
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/MV5BMjAwNTE3MjQ2M15BMl5BanBnXkFtZTgwNjgzNjk2NDM@._V1_SY1000_CR006741000_AL_.jpg"group-title="LANÇAMENTO",Mudo DUB HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUTEDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FGHSgF"group-title="LANÇAMENTO",Hangman LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HANGMANLEG2018-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/YUvLSp"group-title="LANÇAMENTO",My Friend Dahmer LEG HD
@@ -45,6 +46,16 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.m
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/cloverfiedl.jpg"group-title="LANÇAMENTO",O Paradoxo Cloverfield DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4
+
+######################################################TERROR######################################################
+
+#EXTINF:-1 tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/10/345288.jpg" group-title="TERROR",It – A Coisa DUB
+
+
+
+
+
+
 
 
 ########################################################ANIMAÇÃO#####################################################
@@ -181,7 +192,7 @@ http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OZOLGCDVRSVIA.mp4
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OSMENQENGNVMNZIS.mp4
 #EXTINF:-1 tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/12/MV5BMTcyNzk5NDg1Nl5BMl5BanBnXkFtZTgwNTM5MDQxNDM@._V1_SY1000_CR006741000_AL_.jpg" group-title="LANÇAMENTO",Bright DUB
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BRGHT.mp4
-#EXTINF:-1 tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/10/345288.jpg" group-title="LANÇAMENTO",It – A Coisa DUB
+#EXTINF:-1 tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/10/345288.jpg" group-title="TERROR",It – A Coisa DUB
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ITACOS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/QfDF6C" group-title="LANÇAMENTO",Lendas do Templo Perdido: O Filme Dub - 2017 - 1080p
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LNDSDTMPLPERD.mp4

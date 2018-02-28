@@ -1143,26 +1143,26 @@ http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/11-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GvZxJv" group-title=“BLINDSPOT”, BLINDSPOT T3|EP12 (LEG)
 http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/012-BAIXO.mp4
 
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP1 
-http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/01-ALTO.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP2 
-http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/02-ALTO.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP3 
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways DUB T1|EP1 
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01dub/01-ALTO.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways DUB T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01dub/02-ALTO.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways LEG T1|EP3 
 http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/03-ALTO.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP4 
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways LEG T1|EP4 
 http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/04-ALTO.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP5 
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways LEG T1|EP5 
 http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/05-ALTO.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP6
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways LEG T1|EP6
 http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/06-ALTO.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP7
-http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/07-ALTO.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP8
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways LEG OFF T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01dub/07-ALTO.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways LEG T1|EP8
 http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/08-ALTO.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP9
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways LEG T1|EP9
 http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/09-ALTO.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways - LEG",Marvel’s Runaways T01|EP10
-http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/10-ALTO.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways LEG T1|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01dub/10-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2016/10/10115908/S%C3%A9rie-3-Netflix-840x469.jpg" ,group-title="3%", 3% T1|EP1
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP01.mp4

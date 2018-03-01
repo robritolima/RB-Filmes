@@ -2,6 +2,10 @@
 
 
 #############################LANÇAMENTO##############################################################
+#EXTINF:-1 tvg-logo="https://goo.gl/ipHb4n"group-title="LANÇAMENTO",Lady Bird: É Hora de Voar LEG HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EeyKZ2"group-title="LANÇAMENTO",Os Parças HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSPARCAS2018-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/5Fszfh"group-title="LANÇAMENTO",A Forma da Água LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FORMADAAGUALEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2oI6QwG"group-title="LANÇAMENTO",Jogos Mortais: Jigsaw DUB HD
@@ -717,6 +721,8 @@ http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/003-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/04-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP5
 http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/06-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/01-ALTO.mp4
@@ -1396,86 +1402,6 @@ http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/PRBKT05EP08.mp4
 http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/PRBKT05EP09.mp4
 
 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP1
-https://www.blogger.com/video-play.mp4?contentId=978e6ad0b6812c8c
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP2
-https://www.blogger.com/video-play.mp4?contentId=8bf569672cebf6dc
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP3
-https://www.blogger.com/video-play.mp4?contentId=630a482a427777a3
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP4
-https://www.blogger.com/video-play.mp4?contentId=88d2ddd4abc3e523
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP5
-https://www.blogger.com/video-play.mp4?contentId=c1606a8514179ec0
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP6
-https://www.blogger.com/video-play.mp4?contentId=43c4bd9c6b9e0c8e
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP7
-https://www.blogger.com/video-play.mp4?contentId=d025d64cef56549d
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP8
-https://www.blogger.com/video-play.mp4?contentId=2569c04901b6d799
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP9
-https://www.blogger.com/video-play.mp4?contentId=db73788349cb9f31
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP10
-https://www.blogger.com/video-play.mp4?contentId=490c92d59f9eb6b
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP11
-https://www.blogger.com/video-play.mp4?contentId=d2b2f78adafc7fb6
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP12
-https://www.blogger.com/video-play.mp4?contentId=428c551164ef7b8e
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T1|EP13
-https://www.blogger.com/video-play.mp4?contentId=6d0dc80ab6baf223
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP1
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP2
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP3
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP4
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP5
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP6
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP7
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP8
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP9
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T2|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP13.mp4
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP1-2
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP01-02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP3
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP4
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP5
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP6
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP7
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP8
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP9
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nYZZfI" group-title="UNDER THE DOME", UNDER THE DOME T3|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP13.mp4
-
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.1
 http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP001.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.2
@@ -2093,170 +2019,172 @@ http://cdn1.ntcdn.us/content/httpdelivery/arrow/06leg/12-ALTO.mp4
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP1
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP01.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP2
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP02.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP3
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP03.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP4
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP04.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP5
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP05.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP6
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP06.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP7
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP07.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP8
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP08.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP9
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP09.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP10
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP10.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/10-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP11
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP11.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/11-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP12
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP12.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/12-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP13
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP13.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/13-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP14
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP14.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/14-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP15
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP15.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/15-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP16
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP16.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/16-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP17
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP17.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/17-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP18
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP18.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/18-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP19
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP19.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/19-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP20
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP20.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/20-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP21
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP21.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/21-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP22
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP22.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/22-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T1|EP23
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP23.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/01dub/23-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP1
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT02EP01.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP2
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP02.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP3
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP03.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP4
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP04.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP5
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP05.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP6
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP06.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP7
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP07.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP8
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP08.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP9
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP09.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP10
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP10.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/10-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP11
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP11.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/11-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP12
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP12.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/12-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP13
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP13.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/13-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP14
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP14.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/14-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP15
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP15.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/15-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP16
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP16.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/16-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP17
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP17.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/17-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP18
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP18.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/18-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP19
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP19.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/19-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP20
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP20.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/20-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP21
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP21.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/21-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP22
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP22.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/22-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T2|EP23
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEFLSHT02EP23.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/02dub/23-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP1
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP01.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP2
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP02.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP3
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP03.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP4
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP04.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP5
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP05.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP6
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP06.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP7
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP07.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP8
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP08.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP9
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP09.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP10
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP10.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/10-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP11
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP11.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/11-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP12
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP12.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/12-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP13
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP13.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/13-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP14
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP14.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/14-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP15
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP15.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/15-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP16
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP16.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/16-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP17 
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP17-up.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP18
-http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEFLSHT03EP18-up.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP19
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/THEFLSHT03EP19.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP20
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/THEFLSHT03EP20.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP21
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/THEFLSHT03EP21.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP22
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/THEFLSHT03EP22.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP23 (FINAL DA TEMP.)
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/THEFLSHT03EP23.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP01
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP02 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP03
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP04
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP05
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP06
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP07
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP07.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP08 CROSSOVER Part 3
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEFLSHT04EP08.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP09
-http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP010
-http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/A10-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP011
-http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/FLASH4X11F-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP012
-http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/FLASH12-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP013
-http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/0FLASH1300-ALTO.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03dub/17-BAIXO.mp4
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH LEG T3|EP18
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/theflash/03leg/18-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP19
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/03dub/19-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP20
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/03dub/20-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP21
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/03dub/21-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP22
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/03dub/22-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T3|EP23 (FINAL DA TEMP.)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/03dub/23-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP01
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP02 
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP03
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP04
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP05
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP06
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP07
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP08 CROSSOVER Part 3
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/08-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP09
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/09-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP010
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/10-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP011
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/11-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP012
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/012-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH T4|EP013
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/0FLASH1300-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qk37s8Bh.jpg" group-title=" - THE FLASH", THE FLASH LEG T4|EP014
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/014FLASH-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP1 (LEG)
 http://zeus.netcine.tv/httpdelivery/themist/01leg/01-ALTO.mp4

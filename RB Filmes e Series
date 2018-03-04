@@ -118,8 +118,6 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BATMANBYGASLIGHTDUB-ALTO.mp
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BATMANREDHOODDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/419991.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="ANIMAÇÃO",Pica-Pau: O Filme DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PICAPAU2018DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/viva.jpg"group-title="ANIMAÇÃO",Viva: A Vida é uma Festa LEG HD
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/COCO20177LEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/04/1-1.jpg"group-title="ANIMAÇÃO",Jovens Titãs: O Contrato de Judas DUB HD
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/filmes2017/JOVENSDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/03/medium-cover.png"group-title="ANIMAÇÃO",Uma Aventura LEGO DUB HD
@@ -611,6 +609,7 @@ http://v7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/AGTOSHLDS05EP03.mp4
 http://v7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/AGTOSHLDS05EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP5
 http://v7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/AGTOSHLDS05EP05.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E01/02 - LEG
@@ -1237,437 +1236,426 @@ http://zeus.netcine.tv/sobdemanda/netcine-bucket/13r/01dub/13-ALTO.mp4
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP1
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP01.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP2
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP02.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP3
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP03.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP4
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP04.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP5
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP05.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP6
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP06.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP7
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP07.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP8
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP08.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP9
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP09.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP10
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP10.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/10-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP11
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP11.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/11-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP12
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP12.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/12-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP13
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP13.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/13-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP14
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP14.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/14-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP15
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP15.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/15-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP16
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP16.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/16-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP17
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP17.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/17-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP18
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP18.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/18-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP19
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP19.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/19-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP20
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP20.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/20-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP21
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP21.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/21-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP22
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP22.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/22-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP1
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP01.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP2
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP02.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP3
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP03.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP4
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP04.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP5
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP05.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP6
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP06.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP7
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP07.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP8
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP08.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP9
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP09.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP10
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP10.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/10-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP11
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP11.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/11-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP12
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP12.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/12-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP13
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP13.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/13-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP14
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP14.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/14-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP15
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP15.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/15-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP16
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP16.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/16-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP17
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP17.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/17-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP18
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP18.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/18-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP19
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP19.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/19-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP20
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP20.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/20-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP21
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP21.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/21-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP22
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP22.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/22-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP1
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP01.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP2
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP02.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP3
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP03.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP4
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP04.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP5
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP05.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP6
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP06.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP7
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP07.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP8
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP08.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP9
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP09.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP10
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP10.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/10-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP11
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP11.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/11-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP12
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP12.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/12-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP13
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP13.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/13-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP1-2
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP01-02.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/01e02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP3
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP03.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP4
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP04.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP5
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP05.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP6
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP06.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP7
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP07.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP8
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP08.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP9
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP09.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP10
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP10.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/10-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP11
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP11.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/11-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP12
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP12.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/12-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP13
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP13.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/13-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP14
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP14.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/14-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP15
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP15.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/15-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP16
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP16.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/16-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP17
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP17.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/17-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP18
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP18.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/18-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP19
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP19.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/19-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP20
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP20.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/20-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP21
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP21.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/21-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP22
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP22.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/22-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP23-24
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP23-24.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/23e24-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T5|EP1
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP01.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/prisonbreak/05dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T5|EP2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP02.mp4
+http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/prisonbreak/05dub/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T5|EP3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T5|EP4
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T5|EP5
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T5|EP6
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/PRBKT05EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T5|EP7
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/PRBKT05EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T5|EP8
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/PRBKT05EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T5|EP9
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/PRBKT05EP09.mp4
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.1
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP001.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.2
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP002.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.3
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP003.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.4
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP004.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.5
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP005.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.6
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP006.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.7
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP007.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.8
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP008.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.9
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP009.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.10
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP010.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/10-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.11
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP011.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/11-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.12
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP012.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/12-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.13
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP013.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/13-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.14
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP014.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/14-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.15
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP015.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/15-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.16
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP016.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/16-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.17
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP017.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/17-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.18
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP018.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/18-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.19
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP019.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/19-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.20
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP020.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/20-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.21
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP021.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/21-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.22
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPREP022.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/22-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.23
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP023.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/23-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.24
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP024.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/24-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.25
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP025.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/25-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.26
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP026.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/26-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.27
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP027.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/27-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.28
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP028.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/28-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.29
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP029.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/01dub/29-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.30
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP030.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/02dub/30-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.31
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP031.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/31-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.32
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP032.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/32-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.33
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP033.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/33-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.34
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP034.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/34-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.35
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP035.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/35-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.36
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP036.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/36-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.37
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP037.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/37-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.38
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP038.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/38-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.39
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP039.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/39-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.40
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP040.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/40-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.41
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP041.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/03dub/41-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.42
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP042.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/04dub/42-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.43
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP043.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/04dub/43-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.44
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP044.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/04dub/44-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.45
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP045.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/04dub/45-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.46
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP046.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/04dub/46-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.47
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP047.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/47-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.48
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP048.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/48-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.49
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP049.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/49-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.50
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP050.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/50-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.51
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP051.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/51-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.52
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP052.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/52-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.53
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP053.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/53-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP.54
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP054.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/54-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.55
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP055.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/55-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.56
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP056.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/56-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.57
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP057.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/57-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.58
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP058.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/58-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.59
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP059.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/59-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.60
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP060.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/60-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.61
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP061.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/61-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.62
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP062.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/62-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.63
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP063.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/63-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.64
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP064.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/64-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP.65
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP065.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/65-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.66
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP066.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/66-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.67
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPREP067.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/67-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP.68
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP068.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/68-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 69
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP069.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/69-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 70
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP070.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/70-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 71
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP071.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/71-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 72
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP072.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/72-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 73
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP073.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/73-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 74
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP074.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/74-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 75
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP075.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/75-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 76
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP076.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/05leg/76-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 77
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP077.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/77-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 78
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP078.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/78-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 79
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP079.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/79-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 80
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP080.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/80-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 81
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP081.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/81-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 82
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP082.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/82-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 83
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP083.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/83-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 84
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP084.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/84-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 85
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP085.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/85-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 86
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP086.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/86-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 87
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP087.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/87-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 88
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/DBSPRLEGEP088.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/88-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 89
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/DBSPRLEGEP089.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/89-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 90
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/DBSPRLEGEP090.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/90-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 91
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/DBSPRLEGEP091.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/91-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 92
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/DBSPRLEGEP092.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/92-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 93
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/DBSPRLEGEP093.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/93-BAIXO.mp4
 #extinf:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 94
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/DBSPRLEGEP094.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/94-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 95
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/DBSPRLEGEP095.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/95-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 96
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/DBSPRLEGEP096.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/96-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 97
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/DBSPRLEGEP097.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/97-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 98
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/DBSPRLEGEP098.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/98-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 99
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/DBSPRLEGEP099.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/99-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 100
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/DBSPRLEGEP100.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/100-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER LEG EP. 101
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/DBSPRLEGEP101.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/101-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER"”, DRAGON BALL SUPER EP. 102
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPRLEGEP102.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/102-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 103
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPRLEGEP103.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/103-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 104
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPRLEGEP104.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/104-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 105
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPRLEGEP105.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/105-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 106
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/DBSPRLEGEP106.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/106-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 107
-http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/DBSPRLEGEP107.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/107-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 108
-http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer06/ondemand/DBSPRLEGEP108.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/108-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 109
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP109.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/109-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 110
-http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/110-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/110-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 111
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP111.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/111-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 112
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP112.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/112-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 113
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP113.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/113-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 114
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP114.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/114-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 115
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP115.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/115-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 116
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP116.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/116-BAIXO.mp4
 #extinf:-1,tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP. 117
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP117.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/117-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.118
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP118.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/118-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.119
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP119.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/119-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.120
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP120.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/120-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.121
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/DBSPRLEGEP121.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/121-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.122
-http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/122-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/122-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.123
-http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/123-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/123-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.124
-http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/124-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/124-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.125
-http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/125-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/125-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.126
-http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/126-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/126-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.127
-http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/127-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/127-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.128
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/128-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="FEAR THE WALKING DEAD", FEAR THE WALKING DEAD T1|EP1
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/FRTWDT01EP01.mp4

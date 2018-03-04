@@ -1,7 +1,19 @@
 #EXTM3U
 
-
 #############################LANÇAMENTO##############################################################
+#EXTINF:-1 tvg-logo="https://goo.gl/ZVa2Jm"group-title="LANÇAMENTO",O Rei do Show LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/REIDANOITELEG2017-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/4kfgdg"group-title="LANÇAMENTO",Com Amor, Van Gogh DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VANGOGHDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/38vBkL"group-title="LANÇAMENTO",A Estrela de Belém DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BELEM18-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/74FNQZ"group-title="LANÇAMENTO",Viva: A Vida é uma Festa DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/COCO2017DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/UikfBx"group-title="LANÇAMENTO",Verónica DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3pZVNe"group-title="LANÇAMENTO",Gigante LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GIGANTE2018LEG-BAIXO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/ipHb4n"group-title="LANÇAMENTO",Lady Bird: É Hora de Voar LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/EeyKZ2"group-title="LANÇAMENTO",Os Parças HD

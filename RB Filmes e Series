@@ -1,6 +1,8 @@
 #EXTM3U
 
 #############################LANÇAMENTO##############################################################
+#EXTINF:-1 tvg-logo="https://goo.gl/UJ9aAu"group-title="LANÇAMENTO",Jumanji: Bem-Vindo à Selva LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUMANJI2018LEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/K3gtk4"group-title="LANÇAMENTO",Eu, Tonya LEG
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ITONYALEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ZVa2Jm"group-title="LANÇAMENTO",O Rei do Show LEG
@@ -325,6 +327,8 @@ http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/03-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/04-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP5
 http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/06-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/MXm8Wv"group-title="Riverdale",Riverdale DUB T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/riverdale/01dub/01-ALTO.mp4
@@ -426,25 +430,25 @@ http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/10-ALTO.mp4
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP1
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/01-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP2
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/02-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/02-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP3
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/03-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/03-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP4
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/04-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/04-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP5
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/05-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/05-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP6
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/06-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/06-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP7
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/07-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/07-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP8
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/08-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/08-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP9
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/09-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/09-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP10
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/10-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/10-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP11
 http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/11-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP12
@@ -462,13 +466,13 @@ http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/17-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP18
 http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/18-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP19
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/19-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/19-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP20
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/20-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/20-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP21
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/21-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/21-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP22
-http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/01dub/22-ALTO.
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/22-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP1
 http://cdn2.ntcdn.us/sobdemanda/netcine-videos/aos/02dub/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP2
@@ -736,6 +740,8 @@ http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/04-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/05-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP6
 http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/bl.jpg" group-title="Black Lightning", Black Lightning LEG T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/bl/01leg/07-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/sobpressao/01dub/01-ALTO.mp4
@@ -2624,120 +2630,123 @@ http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/QNTCT02EP21.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/pictures/15/07/21/15/36/417404.jpg" group-title="QUANTICO DUB", QNTO T2|EP22
 http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/QNTCT02EP22.mp4
 
-
+atualizado 07/03
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP1
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP01.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP2
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP02.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP3
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP03.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP4
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP04.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP5
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP05.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP6
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP06.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP7
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP07.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP8
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP08.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP9
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP09.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T1|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT01EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP1
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP2
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP3
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP4
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP5
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP6
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP7
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP8
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP9
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THELSTSHOT02EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP1 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP2 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP3 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP4 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP5 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP6 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP7 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP8 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP9 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP10 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/10-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP11 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/11-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP12 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/12-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP13 (LEG)
-http://zeus.netcine.tv/sobdemanda/netcine-bucket/tls/03leg/13-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/t4eE2F" group-title="THE LAST SHIP", THE LAST SHIP T4|EP1 (LEG)
-http://zeus.netcine.tv/httpdelivery/tls/04leg/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/t4eE2F" group-title="THE LAST SHIP", THE LAST SHIP T4|EP2 (LEG)
-http://zeus.netcine.tv/httpdelivery/tls/04leg/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/t4eE2F" group-title="THE LAST SHIP", THE LAST SHIP T4|EP3 (LEG)
-http://zeus.netcine.tv/httpdelivery/tls/04leg/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/92iuQ7" group-title="THE LAST SHIP", THE LAST SHIP T4|EP4 (LEG)
-http://zeus.netcine.tv/httpdelivery/tls/04leg/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/w4EAqV" group-title="THE LAST SHIP", THE LAST SHIP T4|EP5 (LEG)
-http://zeus.netcine.tv/httpdelivery/tls/04leg/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9NiYrt" group-title="THE LAST SHIP", THE LAST SHIP T4|EP6 (LEG)
-http://www.blogger.com/video-play.mp4?contentId=fce7266a1f450a95
-#EXTINF:-1 tvg-logo="https://goo.gl/LiFL1L" group-title="THE LAST SHIP", THE LAST SHIP T4|EP7 (LEG)
-http://zeus.netcine.tv/httpdelivery/tls/04leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/GixsKW" group-title="THE LAST SHIP", THE LAST SHIP T4|EP8 (LEG)
-http://zeus.netcine.tv/httpdelivery/tls/04leg/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/39y2zs" group-title="THE LAST SHIP", THE LAST SHIP T4|EP9 (LEG)
-http://zeus.netcine.tv/httpdelivery/tls/04leg/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/KjEUwb" group-title="THE LAST SHIP", THE LAST SHIP T4|EP10 (LEG - SEASON FINALE)
-http://zeus.netcine.tv/httpdelivery/tls/04leg/10-ALTO.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/01leg/10-BAIXO.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP1
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP2
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP3
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP5
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP6
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP7
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP8
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/08-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP9
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/09-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP10
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/10-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP11
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/11-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP12
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/12-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T2|EP13
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/02leg/13-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP1
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP2
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP3
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP5
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP6
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP7
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP8
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/08-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP9
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/09-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP10
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/10-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP11
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/11-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP12
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/12-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tSXckp" group-title="THE LAST SHIP", THE LAST SHIP T3|EP13
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/tls/03leg/13-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/t4eE2F" group-title="THE LAST SHIP", THE LAST SHIP T4|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/t4eE2F" group-title="THE LAST SHIP", THE LAST SHIP T4|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/t4eE2F" group-title="THE LAST SHIP", THE LAST SHIP T4|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/92iuQ7" group-title="THE LAST SHIP", THE LAST SHIP T4|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/w4EAqV" group-title="THE LAST SHIP", THE LAST SHIP T4|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9NiYrt" group-title="THE LAST SHIP", THE LAST SHIP T4|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LiFL1L" group-title="THE LAST SHIP", THE LAST SHIP T4|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GixsKW" group-title="THE LAST SHIP", THE LAST SHIP T4|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/08-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/39y2zs" group-title="THE LAST SHIP", THE LAST SHIP T4|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/09-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KjEUwb" group-title="THE LAST SHIP", THE LAST SHIP T4|EP10 (SEASON FINALE)
+http://cdn1.ntcdn.us/content/httpdelivery/tls/04leg/10-BAIXO.mp4
+
+atualizado 07/03
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP1
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP01.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP02.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/02-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP03.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/03-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP4
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP04.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/04-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP5
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP05.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP6
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP06.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP7
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP07.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP8
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP08.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/08-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP9
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP09.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Eomcwd" group-title="WESTWORLD", WESTWORLD T1|EP10
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP10.mp4
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/westworld/01dub/10-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Nd8z7E" group-title="Me Chama de Bruna", Me Chama de Bruna T1|EP1
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MCHDBRNT01EP01.mp4

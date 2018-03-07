@@ -1,6 +1,8 @@
 #EXTM3U
 
 #############################LANÇAMENTO##############################################################
+#EXTINF:-1 tvg-logo="https://goo.gl/K3gtk4"group-title="LANÇAMENTO",Eu, Tonya LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ITONYALEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ZVa2Jm"group-title="LANÇAMENTO",O Rei do Show LEG
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/REIDANOITELEG2017-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/4kfgdg"group-title="LANÇAMENTO",Com Amor, Van Gogh DUB

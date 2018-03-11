@@ -1,7 +1,10 @@
 #EXTM3U
 
 #############################LANÇAMENTO##############################################################
-
+#EXTINF:-1 tvg-logo="https://goo.gl/i5vnkb"group-title="LANÇAMENTO",Star Wars: Os Últimos Jedi LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8LEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/x7V5nF"group-title="LANÇAMENTO",Maverick: Caçada no Brasil LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MAVERICK16-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/rA412m"group-title="LANÇAMENTO",Mama DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MAMADUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/P3fgKU"group-title="LANÇAMENTO",Dívida Perigosa LEG

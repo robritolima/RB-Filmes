@@ -307,6 +307,28 @@ http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/filmes2016/SPLITLEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6tR4Ati.png"group-title="COMEDIA",Tinha Que Ser Ele?
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/TNHQSRELE.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/08-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/09-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/10-BAIXO.mp4
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/atypical/01dub/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP2
@@ -1653,6 +1675,8 @@ http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/126-BAIXO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/127-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.128
 http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/128-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.128
+http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/129-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="FEAR THE WALKING DEAD", FEAR THE WALKING DEAD T1|EP1
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/FRTWDT01EP01.mp4

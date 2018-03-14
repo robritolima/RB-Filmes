@@ -1,6 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
 
 #############################LANÇAMENTO##############################################################
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR006751000_AL_.jpg"group-title="LANÇAMENTO",Star Wars: Os Últimos Jedi DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BYzIwZDUzNDQtOTI3Ni00MjE4LWFjNWMtZTVkNGUyNTI0MWIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX686_AL_-4.jpg"group-title="LANÇAMENTO",Aniquilação DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ANIQUILACAODUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BYzIwZDUzNDQtOTI3Ni00MjE4LWFjNWMtZTVkNGUyNTI0MWIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX686_AL_-3.jpg"group-title="LANÇAMENTO",Braven LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BRAVEN18LEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SY1000_CR006741000_AL_.jpg"group-title="ANIMAÇÃO",WALL-E DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WALLEDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/download.jpg"group-title="ANIMAÇÃO",Detona Ralph DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DETONARALPHDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/p10569216_v_v8_ag.jpg"group-title="ANIMAÇÃO",Operação Big Hero DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BIGHERODUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_-2.jpg"group-title="LANÇAMENTO",Liga dos Deuses DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LIGADEUSESDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_-1.jpg"group-title="LANÇAMENTO",O Estrangeiro DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FOREIGNERDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_.jpg"group-title="LANÇAMENTO",Uma Floresta Muito Louca DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FLORESTALOUCADUB-BAIXO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/i5vnkb"group-title="LANÇAMENTO",Star Wars: Os Últimos Jedi LEG
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8LEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/x7V5nF"group-title="LANÇAMENTO",Maverick: Caçada no Brasil LEG

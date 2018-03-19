@@ -1,12 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
-
 #############################LANÇAMENTO##############################################################
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR006751000_AL_.jpg"group-title="LANÇAMENTO",Star Wars: Os Últimos Jedi DUB
+
+#EXTINF:-1 tvg-logo="https://goo.gl/SRa5q8"group-title="ANIMAÇÃO",As Aventuras de Paddington DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PADDINGTON-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VaUPHm"group-title="ANIMAÇÃO",Paddington 2 DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PADDINGTON2-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kNpPzG"group-title="COMEDIA",Dois Caras Legais LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/NICEGUYSLEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/SqDowk"group-title="DRAMA",Bastardos Inglórios DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BASTADOSINGLORIOSDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1rxuBJ"group-title="DRAMA",O Lobo de Wall Street DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOBOWALLSTREETDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dj62vT"group-title="ANIMAÇÃO",Os Incríveis DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSINCRIVEISDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hAaxQc"group-title="ANIMAÇÃO",Lego DC Comics Super Heroes: The Flash DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LEGOTHEFLASHDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR006751000_AL_.jpg"group-title="FICÇÃO",Star Wars: Os Últimos Jedi DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BYzIwZDUzNDQtOTI3Ni00MjE4LWFjNWMtZTVkNGUyNTI0MWIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX686_AL_-4.jpg"group-title="LANÇAMENTO",Aniquilação DUB
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BYzIwZDUzNDQtOTI3Ni00MjE4LWFjNWMtZTVkNGUyNTI0MWIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX686_AL_-4.jpg"group-title="FICÇÃO",Aniquilação DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ANIQUILACAODUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BYzIwZDUzNDQtOTI3Ni00MjE4LWFjNWMtZTVkNGUyNTI0MWIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX686_AL_-3.jpg"group-title="LANÇAMENTO",Braven LEG
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BYzIwZDUzNDQtOTI3Ni00MjE4LWFjNWMtZTVkNGUyNTI0MWIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX686_AL_-3.jpg"group-title="AÇÃO",Braven LEG
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BRAVEN18LEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SY1000_CR006741000_AL_.jpg"group-title="ANIMAÇÃO",WALL-E DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WALLEDUB-BAIXO.mp4
@@ -16,20 +30,18 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DETONARALPHDUB-BAIXO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BIGHERODUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_-2.jpg"group-title="LANÇAMENTO",Liga dos Deuses DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LIGADEUSESDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_-1.jpg"group-title="LANÇAMENTO",O Estrangeiro DUB
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_-1.jpg"group-title="AÇÃO",O Estrangeiro DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FOREIGNERDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_.jpg"group-title="LANÇAMENTO",Uma Floresta Muito Louca DUB
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_.jpg"group-title="ANIMAÇÃO",Uma Floresta Muito Louca DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FLORESTALOUCADUB-BAIXO.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/i5vnkb"group-title="LANÇAMENTO",Star Wars: Os Últimos Jedi LEG
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/x7V5nF"group-title="LANÇAMENTO",Maverick: Caçada no Brasil LEG
+#EXTINF:-1 tvg-logo="https://goo.gl/x7V5nF"group-title="AÇÃO",Maverick: Caçada no Brasil LEG
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MAVERICK16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/rA412m"group-title="LANÇAMENTO",Mama DUB
+#EXTINF:-1 tvg-logo="https://goo.gl/rA412m"group-title="TERROR",Mama DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MAMADUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/P3fgKU"group-title="LANÇAMENTO",Dívida Perigosa LEG
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEOUTSIDE2018LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/UJ9aAu"group-title="LANÇAMENTO",Jumanji: Bem-Vindo à Selva DUB
+#EXTINF:-1 tvg-logo="https://goo.gl/UJ9aAu"group-title="AVENTURA",Jumanji: Bem-Vindo à Selva DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUMANJI2018DUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/K3gtk4"group-title="LANÇAMENTO",Eu, Tonya LEG
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ITONYALEG-BAIXO.mp4
@@ -39,7 +51,7 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/REIDANOITELEG2017-BAIXO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VANGOGHDUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/38vBkL"group-title="LANÇAMENTO",A Estrela de Belém DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BELEM18-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/74FNQZ"group-title="LANÇAMENTO",Viva: A Vida é uma Festa DUB
+#EXTINF:-1 tvg-logo="https://goo.gl/74FNQZ"group-title="ANIMAÇÃO",Viva: A Vida é uma Festa DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/COCO2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/UikfBx"group-title="LANÇAMENTO",Verónica DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018DUB-BAIXO.mp4
@@ -48,19 +60,19 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GIGANTE2018LEG-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ipHb4n"group-title="LANÇAMENTO",Lady Bird: É Hora de Voar LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EeyKZ2"group-title="LANÇAMENTO",Os Parças HD
+#EXTINF:-1 tvg-logo="https://goo.gl/EeyKZ2"group-title="COMEDIA",Os Parças HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSPARCAS2018-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5Fszfh"group-title="LANÇAMENTO",A Forma da Água LEG HD
+#EXTINF:-1 tvg-logo="https://goo.gl/5Fszfh"group-title="DRAMA",A Forma da Água LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FORMADAAGUALEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2oI6QwG"group-title="LANÇAMENTO",Jogos Mortais: Jigsaw DUB HD
+#EXTINF:-1 tvg-logo="http://bit.ly/2oI6QwG"group-title="TERROR",Jogos Mortais: Jigsaw DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JIGSAW2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2FayfkV"group-title="LANÇAMENTO",O Touro Ferdinando LEG HD
+#EXTINF:-1 tvg-logo="http://bit.ly/2FayfkV"group-title="ANIMAÇÃO",O Touro Ferdinando LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FERDINANDOLEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZ2GLG"group-title="LANÇAMENTO",Mudo DUB HD
+#EXTINF:-1 tvg-logo="http://bit.ly/2EZ2GLG"group-title="AÇÃO",Mudo DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUTEDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FGHSgF"group-title="LANÇAMENTO",Hangman LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HANGMANLEG2018-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/07/images-1.jpg"group-title="LANÇAMENTO",O Círculo DUB HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/07/images-1.jpg"group-title="DRAMA",O Círculo DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CIRCO2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/YUvLSp"group-title="LANÇAMENTO",My Friend Dahmer LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MYFRIENDDAHMERLEG-ALTO.mp4
@@ -68,21 +80,21 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MYFRIENDDAHMERLEG-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DONNIEDARKODUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2BTAVl3"group-title="DRAMA",Ela DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ELADUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/POSTER-Extraordinario-1.png"group-title="LANÇAMENTO",Extraordinário DUB HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/POSTER-Extraordinario-1.png"group-title="DRAMA",Extraordinário DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/EXTRAORDINARIODUB2018-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/175443.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="LANÇAMENTO",Thor: Ragnarok DUB HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/175443.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="AVENTURA",Thor: Ragnarok DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THOR2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/TRES-ANUNCIOS.jpg"group-title="LANÇAMENTO",Três Anúncios Para um Crime LEG HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/TRES-ANUNCIOS.jpg"group-title="DRAMA",Três Anúncios Para um Crime LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/TRESANUNCIOS2018LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/25038899_2014773302135029_1994568527201173504_n.jpg"group-title="LANÇAMENTO",Hacker – Todo Crime Tem Um Início DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HACKERDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/PERFIL.png"group-title="LANÇAMENTO",Fullmetal Alchemist DUB HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/PERFIL.png"group-title="ANIMAÇÃO",Fullmetal Alchemist DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FULLMETALDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/353819.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="LANÇAMENTO",Gosto Se Discute DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/20154-cartaz.jpg"group-title="LANÇAMENTO",Pequena Grande Vida LEG HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/20154-cartaz.jpg"group-title="DRAMA",Pequena Grande Vida LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PEQUENAGRANDEVIDA2018LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/1080x1620_1507150771.jpg"group-title="LANÇAMENTO",Pai em Dose Dupla 2 DUB HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/1080x1620_1507150771.jpg"group-title="COMEDIA",Pai em Dose Dupla 2 DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/images.jpeg"group-title="LANÇAMENTO",O Destino de uma Nação LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4
@@ -90,17 +102,17 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CALLMEBYNAME2018LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/spi-1.jpg"group-title="LANÇAMENTO",Loucuras em Família DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/spi.jpg"group-title="LANÇAMENTO",Espião por Acaso DUB HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/spi.jpg"group-title="COMEDIA",Espião por Acaso DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ESPIAO2018LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/murder.jpg"group-title="LANÇAMENTO",Assassinato no Expresso do Oriente LEG HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/murder.jpg"group-title="SUSPENSE",Assassinato no Expresso do Oriente LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUDERONTHEEXPRESS2017LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/post.jpg"group-title="LANÇAMENTO",The Post: A Guerra Secreta LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/satan.jpg"group-title="LANÇAMENTO",American Satan LEG HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/0260439.jpg"group-title="LANÇAMENTO",Liga da Justiça DUB HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/0260439.jpg"group-title="AVENTURA",Liga da Justiça DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/cloverfiedl.jpg"group-title="LANÇAMENTO",O Paradoxo Cloverfield DUB HD
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/cloverfiedl.jpg"group-title="FICÇÃO",O Paradoxo Cloverfield DUB HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4
 
 ######################################################TERROR######################################################

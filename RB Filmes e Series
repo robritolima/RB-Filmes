@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
 #############################LANÇAMENTO##############################################################
 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/4GrrHC"group-title="LANÇAMENTO",Corrida Mortal 4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DEATHRACE4-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/SRa5q8"group-title="ANIMAÇÃO",As Aventuras de Paddington DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PADDINGTON-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/VaUPHm"group-title="ANIMAÇÃO",Paddington 2 DUB
@@ -218,9 +221,9 @@ http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMSTNRUMCONQSTDR.mp4
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/PARLSIA.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NtwRg6Q.jpg" group-title="LANÇAMENTO",Os Enigmas da Bíblia DUB HD
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OSENGMSDBLBL.mp4
-#EXTINF:-1 tvg-logo="http://www.trocafigurinhas.com/Imagens/Albuns/2237Full.jpg" group-title="LANÇAMENTO",Os Smurfs e a Vila Perdida DUB HD
+#EXTINF:-1 tvg-logo="http://www.trocafigurinhas.com/Imagens/Albuns/2237Full.jpg" group-title="ANIMAÇÃO",Os Smurfs e a Vila Perdida DUB HD
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/08/25/11/58/463146.jpg" group-title="LANÇAMENTO",Blade Runner 2049 DUB HD
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/08/25/11/58/463146.jpg" group-title="FICÇÃO",Blade Runner 2049 DUB HD
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BLDRNR2049.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dnUitk" group-title="LANÇAMENTO",Sono Mortal DUB HD
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SONMRTL.mp4
@@ -338,6 +341,40 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JOHNWICKLEGE-BAIXO.mp4
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/filmes2016/SPLITLEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6tR4Ati.png"group-title="COMEDIA",Tinha Que Ser Ele?
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/TNHQSRELE.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/08-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/09-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/10-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP11
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/11-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/12-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP13
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/13-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP14
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/14-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP15
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/15-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP16
+http://cdn1.ntcdn.us/content/httpdelivery/timeless/01leg/16-BAIXO.mp4
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/setesegundos/01dub/01-BAIXO.mp4

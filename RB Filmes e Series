@@ -2,8 +2,7 @@
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
 #############################LANÇAMENTO##############################################################
 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/4GrrHC"group-title="LANÇAMENTO",Corrida Mortal 4
+#EXTINF:-1 tvg-logo="https://goo.gl/4GrrHC"group-title="AÇÃO",Corrida Mortal 4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DEATHRACE4-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/SRa5q8"group-title="ANIMAÇÃO",As Aventuras de Paddington DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PADDINGTON-BAIXO.mp4

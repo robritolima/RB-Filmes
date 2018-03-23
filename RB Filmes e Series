@@ -291,6 +291,22 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/FRAGDUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6tR4Ati.png"group-title="COMEDIA",Tinha Que Ser Ele?
 http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/TINHADUB-BAIXO.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/mecanismo/01dub/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/mecanismo/01dub/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/mecanismo/01dub/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/mecanismo/01dub/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/mecanismo/01dub/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/mecanismo/01dub/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/mecanismo/01dub/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/mecanismo/01dub/08-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/RJ5uyo"group-title="Counterpart",Counterpart LEG T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/counterpart/01leg/01-BAIXO.mp4
@@ -398,6 +414,12 @@ http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/04-ALTO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/05-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP6
 http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/08-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/alienist/01leg/09-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/MXm8Wv"group-title="Riverdale",Riverdale DUB T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/riverdale/01dub/01-ALTO.mp4
@@ -677,8 +699,37 @@ http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/15-BAIXO.mp4
 http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/16-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP17
 http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/17-BAIXO.mp4
-
-
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD off LEG T4|EP18
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD off LEG T4|EP19
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD off LEG T4|EP20
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP21
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/04leg/21-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP22
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/04leg/22-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP1/2
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/001e002-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/08-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/09-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/10-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP11
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/11-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/12-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP13
+http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/13-BAIXO.mp4
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E01/02 - LEG

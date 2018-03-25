@@ -1,7 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
 #############################LANÇAMENTO##############################################################
-
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/Unlocked-new-poster-1.jpg"group-title="LANÇAMENTO",Conspiração Terrorista
+http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTADUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/POSTER-13.jpg"group-title="LANÇAMENTO",Benji DUB
+http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/BENJI2018DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GeGAuu"group-title="LANÇAMENTO",Sobrenatural: A Última Chave LEG
+http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/INSIDIOUS4LEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/4GrrHC"group-title="AÇÃO",Corrida Mortal 4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DEATHRACE4-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/SRa5q8"group-title="ANIMAÇÃO",As Aventuras de Paddington DUB

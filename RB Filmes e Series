@@ -1779,7 +1779,13 @@ http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/127-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.128
 http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/128-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.128
-http://cdn1.ntcdn.us/content/httpdelivery/dbs/06leg/129-BAIXO.mp4
+http://cdn12.ntcdn.us/content/httpdelivery/dbs/06leg/128-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.129
+http://cdn12.ntcdn.us/content/httpdelivery/dbs/06leg/129-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.130
+http://cdn12.ntcdn.us/content/httpdelivery/dbs/06leg/0130-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.131
+http://cdn12.ntcdn.us/content/httpdelivery/dbs/06leg/131-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="FEAR THE WALKING DEAD", FEAR THE WALKING DEAD T1|EP1
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/FRTWDT01EP01.mp4

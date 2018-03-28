@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Bright
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Hey Arnold! The Jungle Movie LEG
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/HEYARNOLDLEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Como Se Tornar o Pior Aluno da Escola
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/CSATOPADENACIONAL-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Dunkirk LEG
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/DUNKIRKLEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Policia Federal: A Lei e para Todos
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/POFE20117-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Kingsman: O Circulo Dourado LEG
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/KINGS2017LEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Dupla Explosiva
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/DUPLA2DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",A Morte Te Da Parabens
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Feito na America LEG
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/AM2017LEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",O Primeiro Alvo LEG
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/AMERICANA20177LEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Carros 3
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/CARROS3DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Homem-Aranha: De Volta ao Lar
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/ARANHAHOMEMDUB-BAIXO.mp4
+
 #EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/3/v6/z1zlf_tnl_210x118.jpg?ts=20140530223429",O Ritual (2012)
 http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
 #EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/y/n6/ty2lf_tnl_210x118.jpg?ts=20150325000851",Menina Ma.com

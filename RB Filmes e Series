@@ -1,8 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-1.jpg"group-title="LANÇAMENTO",Fala Sério, Mãe! NAC
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FALASERIEMAE-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-3.jpg"group-title="LANÇAMENTO",Maze Runner: A Cura Mortal LEG
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MAZERUNNERLEG-BAIXO.mp4
-
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/Unlocked-new-poster-1.jpg"group-title="LANÇAMENTO",Conspiração Terrorista
 http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTADUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/POSTER-13.jpg"group-title="LANÇAMENTO",Benji DUB
@@ -1429,6 +1432,44 @@ http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
 #EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/TMiA9o2.jpg",A Guerra de Hart
 http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP01
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP02
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP03
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP04
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP05
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP06
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP07
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP08
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/08-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP09
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/09-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/10-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP11
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/11-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/12-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP13
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/13-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP14
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/14-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP15
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/15-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP16
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/16-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP17
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/17-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP18
+http://cdn1.ntcdn.us/content/httpdelivery/tgd/01leg/18-BAIXO.mp4
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vzrhb6" group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T1|EP01 
 https://www.blogger.com/video-play.mp4?contentId=493119be16ec0c3&
 #EXTINF:-1 tvg-logo="https://goo.gl/jyjs63" group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T1|EP02
@@ -1455,6 +1496,18 @@ https://www.blogger.com/video-play.mp4?contentId=268b4ed568d799a2&
 https://www.blogger.com/video-play.mp4?contentId=e0293667701129f1&
 #EXTINF:-1 tvg-logo="https://goo.gl/jyjs63" group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T1|EP13
 https://www.blogger.com/video-play.mp4?contentId=a1963c2a4f60812b&
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/06-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LVeJqk" group-title="UNDER THE DOME", UTDPI T1|EP1
 https://www.blogger.com/video-play.mp4?contentId=978e6ad0b6812c8c&
@@ -2125,44 +2178,6 @@ http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/09-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP10
 http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/10-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP1
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP2
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP3
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP4
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP5
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP6
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP7
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP8
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/08ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP9
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/09ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP10
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/10-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP11
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/11-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP12
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/12-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel DUB T1|EP13
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/01dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP1
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP2
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP3
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP4
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP5
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="La Casa de Papel",La Casa de Papel LEG T2|EP6
-http://cdn1.ntcdn.us/content/httpdelivery/casadepapel/02leg/06-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP1
 http://cdn1.ntcdn.us/content/httpdelivery/ac/01dub/01-ALTO.mp4

@@ -1,5 +1,45 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
+
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
+
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
+
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
+
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
+
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX700_AL_.jpg"group-title="LANÇAMENTO",Verónica DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018DUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BZmFkNzc1ZTMtYjgzNy00YjRhLWFmZGQtZjI2NzhlYjliNjI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX700_AL_.jpg"group-title="LANÇAMENTO",Gigante LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GIGANTE2018LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster_opt.jpg"group-title="LANÇAMENTO",Lady Bird: A Hora de Voar LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/Screenshot_8.jpg"group-title="LANÇAMENTO",A Silent Voice LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/SILENTVOICELEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/cartaz_os_parcas.jpg"group-title="LANÇAMENTO",Os Parças NAC
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSPARCAS2018-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/Screenshot_15.jpg"group-title="LANÇAMENTO",A Forma da Água LEG
+http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover-5.jpg
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/4731159.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg"group-title="LANÇAMENTO",Jogos Mortais Jigsaw DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JIGSAW2017DUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg"group-title="LANÇAMENTO",O Touro Ferdinando LEG
+http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-3.jpg"group-title="LANÇAMENTO",Maze Runner: A Cura Mortal LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MAZERUNNERLEG-BAIXO.mp4
+
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Bright
 http://origin.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTDUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg"group-title="LANÇAMENTO",Hey Arnold! The Jungle Movie LEG

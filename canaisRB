@@ -1,0 +1,24 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sZuGFH" group-title="LANÇAMENTO", WARNER
+http://iptv.ec.cx/hls/redecanais-warner.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/4W4V9c" group-title="LANÇAMENTO", FOX
+http://iptv.ec.cx/hls/redecanais-fox.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/aois71" group-title="LANÇAMENTO", FX
+http://iptv.ec.cx/hls/redecanais-fx.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/JKV9Pz" group-title="LANÇAMENTO", MEGAPIX
+http://iptv.ec.cx/hls/redecanais-megapix.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/efx2P7" group-title="LANÇAMENTO", COMBATE
+http://iptv.ec.cx/hls/redecanais-combate.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/bzGnQz" group-title="LANÇAMENTO", CARTOON NETWORK
+http://iptv.ec.cx/hls/redecanais-cartoon.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/EyHANa" group-title="LANÇAMENTO", DISCOVERY CHANNEL
+http://iptv.ec.cx/hls/redecanais-discovery.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/YYHyUv" group-title="LANÇAMENTO", GLOBO NORDESTE
+http://iptv.ec.cx/hls/redecanais-bobo.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/aois71" group-title="LANÇAMENTO", 
+
+
+
+

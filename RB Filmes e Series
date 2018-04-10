@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
-
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/images-3.jpg"group-title="LANÇAMENTO",Cinquenta Tons de Liberdade LEG
+http://cdn7.ntcdn.us/content/delivery/filmes2018/TONSDELIBERDADELEG2018-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/i-kill-giants.106142.jpg"group-title="LANÇAMENTO",I Kill Giants LEG
 http://cdn7.ntcdn.us/content/delivery/filmes2018/IKILLGIANTSLEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/images-1.jpg"group-title="LANÇAMENTO",Terra Selvagem DUB
@@ -1446,6 +1447,725 @@ http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
 http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
 #EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/TMiA9o2.jpg",A Guerra de Hart
 http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+
+
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP01
+https://www.blogger.com/video-play.mp4?contentId=a1f8a6276f129e2d
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP02
+https://www.blogger.com/video-play.mp4?contentId=2b447a4ec05de9d7
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP03
+https://www.blogger.com/video-play.mp4?contentId=5d13ce5d8a989b7
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP04
+https://www.blogger.com/video-play.mp4?contentId=7bc82008d895cc8b
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP05
+https://www.blogger.com/video-play.mp4?contentId=74af84568e82c107
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP06
+https://www.blogger.com/video-play.mp4?contentId=f3d51eb31c9ef2ec
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP07
+https://www.blogger.com/video-play.mp4?contentId=d06fc24a74d85a81
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP08
+https://www.blogger.com/video-play.mp4?contentId=aadcb88ae3404398
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP09
+https://www.blogger.com/video-play.mp4?contentId=74076fd2d657da27
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP10
+https://www.blogger.com/video-play.mp4?contentId=25d83377217ff591
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP01
+https://www.blogger.com/video-play.mp4?contentId=e74f6ef8b4de6705
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP02
+https://www.blogger.com/video-play.mp4?contentId=e25cb19ce0b50819
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP03
+https://www.blogger.com/video-play.mp4?contentId=da3c5c60f612f365
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP04
+https://www.blogger.com/video-play.mp4?contentId=cb739cdf862fd4f0
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP05
+https://www.blogger.com/video-play.mp4?contentId=3039b3392e18e1d7
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP06
+https://www.blogger.com/video-play.mp4?contentId=22526ac9c5c7ee91
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP07
+https://www.blogger.com/video-play.mp4?contentId=9215361e481c4453
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP08
+https://www.blogger.com/video-play.mp4?contentId=f6f792233eed5163
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP09
+https://www.blogger.com/video-play.mp4?contentId=8f75699246383bd8
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP10
+https://www.blogger.com/video-play.mp4?contentId=5726c31741981d51
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP11
+https://www.blogger.com/video-play.mp4?contentId=fe11c8d823a875a4
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP12
+https://www.blogger.com/video-play.mp4?contentId=d8f1e8383fbe9f89
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP13
+https://www.blogger.com/video-play.mp4?contentId=b0882f80fdfa5f14
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP14
+https://www.blogger.com/video-play.mp4?contentId=3f22d7f6467381e4
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP15
+https://www.blogger.com/video-play.mp4?contentId=ff60c3c63824f137
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP16
+https://www.blogger.com/video-play.mp4?contentId=12a51f5069fdd48c
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP17
+https://www.blogger.com/video-play.mp4?contentId=83e32484856dc837
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP18
+https://www.blogger.com/video-play.mp4?contentId=dd199a6ba1d68335
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP19
+https://www.blogger.com/video-play.mp4?contentId=aded6cd2f44489bc
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP20
+https://www.blogger.com/video-play.mp4?contentId=387b929078414c33
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP21
+https://www.blogger.com/video-play.mp4?contentId=6b1ba819aaeda727
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP22
+https://www.blogger.com/video-play.mp4?contentId=d1f230993c63833f
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP23
+https://www.blogger.com/video-play.mp4?contentId=f6c71532b2a240c4
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T2|EP24
+https://www.blogger.com/video-play.mp4?contentId=a78d25824c05e4a4
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP01
+https://www.blogger.com/video-play.mp4?contentId=d908f308acf44250
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP02
+https://www.blogger.com/video-play.mp4?contentId=ffb027000ef3add1
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP03
+https://www.blogger.com/video-play.mp4?contentId=9b0771bf8afc404e
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP04
+https://www.blogger.com/video-play.mp4?contentId=6127417b7961a0a1
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP05
+https://www.blogger.com/video-play.mp4?contentId=ad45a03fbae129e0
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP06
+https://www.blogger.com/video-play.mp4?contentId=dcde0c3bdded82c8
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP07
+https://www.blogger.com/video-play.mp4?contentId=211702d879878b3d
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP08
+https://www.blogger.com/video-play.mp4?contentId=fdbc4cea34477c83
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP09
+http://www.blogger.com/video-play.mp4?contentId=3bb6e17fa4a356a6
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP10
+https://www.blogger.com/video-play.mp4?contentId=f680181ba74ab303
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP11
+https://www.blogger.com/video-play.mp4?contentId=7b56a586c5b53209
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP12
+https://www.blogger.com/video-play.mp4?contentId=17d8684bbe7f4e16
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP13
+https://www.blogger.com/video-play.mp4?contentId=7c192694b7eb41dd
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP14
+https://www.blogger.com/video-play.mp4?contentId=c345f716fab31394
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP15
+https://www.blogger.com/video-play.mp4?contentId=8caa625415102d59
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP16
+https://www.blogger.com/video-play.mp4?contentId=a25bb44200074534
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP17
+https://www.blogger.com/video-play.mp4?contentId=4ef2ca069cf2276f
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP18
+https://www.blogger.com/video-play.mp4?contentId=8eba44456597c494
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP19
+https://www.blogger.com/video-play.mp4?contentId=8b97d33f5b1141cb
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP20
+https://www.blogger.com/video-play.mp4?contentId=feeb8aa45ae4132
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP21
+https://www.blogger.com/video-play.mp4?contentId=5c6639cf9d93b49a
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP22
+https://www.blogger.com/video-play.mp4?contentId=19fb4cf33f758297
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP23
+https://www.blogger.com/video-play.mp4?contentId=e7532785c270af03
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T3|EP24
+https://www.blogger.com/video-play.mp4?contentId=5c45c3365dca1d9a
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP01
+https://www.blogger.com/video-play.mp4?contentId=291e5e6c1843c483
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP02
+https://www.blogger.com/video-play.mp4?contentId=923b38ed989cc5eb
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP03
+https://www.blogger.com/video-play.mp4?contentId=38faa1471e9a727f
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP04
+https://www.blogger.com/video-play.mp4?contentId=88e6154104ed7684
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP05
+https://www.blogger.com/video-play.mp4?contentId=8b9d9c953dbcc0ac
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP06
+https://www.blogger.com/video-play.mp4?contentId=9a5e8b70d8f9029d
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP07
+https://www.blogger.com/video-play.mp4?contentId=84289e4711cfdd69
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP08
+https://www.blogger.com/video-play.mp4?contentId=818e3f3d0cd28f6b
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP09
+https://www.blogger.com/video-play.mp4?contentId=964b7d1ce6f95a27
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP10
+https://www.blogger.com/video-play.mp4?contentId=5a63aca8208b5ee4
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP11
+https://www.blogger.com/video-play.mp4?contentId=cbf6916a51013acc
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP12
+https://www.blogger.com/video-play.mp4?contentId=bfa0bd2658757acc
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP13
+https://www.blogger.com/video-play.mp4?contentId=10123f3521a2b19
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP14
+https://www.blogger.com/video-play.mp4?contentId=4433c9630ac5457f
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP15
+https://www.blogger.com/video-play.mp4?contentId=42be27725acffc0f
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP16
+https://www.blogger.com/video-play.mp4?contentId=9b173730c6e616ad
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP17
+https://www.blogger.com/video-play.mp4?contentId=b210010c288cc528
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP18
+https://www.blogger.com/video-play.mp4?contentId=eaacc2369e94bfcc
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP19
+https://www.blogger.com/video-play.mp4?contentId=ffbc8dd8138036f6
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP20
+https://www.blogger.com/video-play.mp4?contentId=99f47e97721aed38
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP21
+https://www.blogger.com/video-play.mp4?contentId=fee08a1173a61c08
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP22
+https://www.blogger.com/video-play.mp4?contentId=29eb89b8c509c5bb
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T4|EP23
+https://www.blogger.com/video-play.mp4?contentId=271e8cd5022238d3
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP01
+https://www.blogger.com/video-play.mp4?contentId=4aa740fa994d327
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP02
+https://www.blogger.com/video-play.mp4?contentId=9a674408d114b1f
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP03
+https://www.blogger.com/video-play.mp4?contentId=daed2736d25cafd8
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP04
+https://www.blogger.com/video-play.mp4?contentId=94fb7d75b4b302e2
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP05
+https://www.blogger.com/video-play.mp4?contentId=70cb2e8581001a8
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP06
+https://www.blogger.com/video-play.mp4?contentId=91ef6e7c72ccff75
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP07
+https://www.blogger.com/video-play.mp4?contentId=d13a48b00b2d5ddd
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP08
+https://www.blogger.com/video-play.mp4?contentId=476fa75c9923edcd
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP09
+https://www.blogger.com/video-play.mp4?contentId=e900b161471175cb
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP10
+https://www.blogger.com/video-play.mp4?contentId=36cb07b12458668d
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP11
+https://www.blogger.com/video-play.mp4?contentId=d5fea2073e3a67fc
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP12
+https://www.blogger.com/video-play.mp4?contentId=5f5a1c4c54aa78da
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP13
+https://www.blogger.com/video-play.mp4?contentId=4f4e0a3f21fa0657
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP14
+https://www.blogger.com/video-play.mp4?contentId=fd2e157c95074936
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP15
+https://www.blogger.com/video-play.mp4?contentId=d67a1f8624327c3d
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP16
+https://www.blogger.com/video-play.mp4?contentId=6ba493d9236bbe52
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP17
+https://www.blogger.com/video-play.mp4?contentId=e65f1d1df9599610
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP18
+https://www.blogger.com/video-play.mp4?contentId=9f04b4b4d4df9634
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP19
+https://www.blogger.com/video-play.mp4?contentId=3b6e4438956dadfa
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP20
+https://www.blogger.com/video-play.mp4?contentId=315dbae79c7d29ce
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP21
+https://www.blogger.com/video-play.mp4?contentId=63e0f0d0b8b381df
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP22
+https://www.blogger.com/video-play.mp4?contentId=ef09915c661fcaf5
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP23
+https://www.blogger.com/video-play.mp4?contentId=38b15da60031056a
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T5|EP24
+https://www.blogger.com/video-play.mp4?contentId=afb9a8c0c2e88dda
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP01
+https://www.blogger.com/video-play.mp4?contentId=27c6ffe5f0a335ce
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP02
+https://www.blogger.com/video-play.mp4?contentId=3fd4d74dc30b4c65
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP03
+https://www.blogger.com/video-play.mp4?contentId=7deb7431032a9f0e
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP04
+https://www.blogger.com/video-play.mp4?contentId=c4282332a9b36ead
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP05
+https://www.blogger.com/video-play.mp4?contentId=604e5642aa0f244e
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP06
+https://www.blogger.com/video-play.mp4?contentId=531f4767846327b4
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP07
+https://www.blogger.com/video-play.mp4?contentId=8214f6c6c152f892
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP08
+https://www.blogger.com/video-play.mp4?contentId=c089c93e741fa8a3
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP09
+https://www.blogger.com/video-play.mp4?contentId=62e633f90aaa532c
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP10
+https://www.blogger.com/video-play.mp4?contentId=862822c1d1c076b8
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP11
+https://www.blogger.com/video-play.mp4?contentId=335e86ae28b98524
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP12
+https://www.blogger.com/video-play.mp4?contentId=ad317830ada79195
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP13
+https://www.blogger.com/video-play.mp4?contentId=5b8d6539e1c460ff
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP14
+https://www.blogger.com/video-play.mp4?contentId=3227b0a3b3ff6abb
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP15
+https://www.blogger.com/video-play.mp4?contentId=ca04887673036308
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP16
+https://www.blogger.com/video-play.mp4?contentId=12aaa772f05955ae
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP17
+https://www.blogger.com/video-play.mp4?contentId=902c6994e1fb99e
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP18
+https://www.blogger.com/video-play.mp4?contentId=dd3f17b722249f6c
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP19
+https://www.blogger.com/video-play.mp4?contentId=87845282fa0580f7
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP20
+https://www.blogger.com/video-play.mp4?contentId=c82c6bb117692f1d
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP21
+https://www.blogger.com/video-play.mp4?contentId=fd29f9e6b238b8ce
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP22
+https://www.blogger.com/video-play.mp4?contentId=bd98f64c08d12de2
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T6|EP23
+https://www.blogger.com/video-play.mp4?contentId=308120716d2d136e
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP01
+https://www.blogger.com/video-play.mp4?contentId=e54fce25963178c1
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP02
+https://www.blogger.com/video-play.mp4?contentId=825c87ba1d5caaea
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP03
+https://www.blogger.com/video-play.mp4?contentId=80a0596239aacac9
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP04
+https://www.blogger.com/video-play.mp4?contentId=4e21f3fdfaa7868e
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP05
+https://www.blogger.com/video-play.mp4?contentId=2c7eb515ed31ed54
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP06
+https://www.blogger.com/video-play.mp4?contentId=f40fc1a417f214b9
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP07
+https://www.blogger.com/video-play.mp4?contentId=9c5bb3ecfe517b43
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP08
+https://www.blogger.com/video-play.mp4?contentId=6a9d402528717da3
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP09
+https://www.blogger.com/video-play.mp4?contentId=890550511f853221
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP10
+https://www.blogger.com/video-play.mp4?contentId=86169d1b04ec4386
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP11
+https://www.blogger.com/video-play.mp4?contentId=df3921c120ee5e06
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP12
+https://www.blogger.com/video-play.mp4?contentId=cb80a748f5bc5792
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP13
+https://www.blogger.com/video-play.mp4?contentId=7a3ffea60a49d6e
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP14
+https://www.blogger.com/video-play.mp4?contentId=1c343848f00feb3
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP15
+https://www.blogger.com/video-play.mp4?contentId=d966863e405641e8
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP16
+https://www.blogger.com/video-play.mp4?contentId=2f2d687d12d2cf19
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP17
+https://www.blogger.com/video-play.mp4?contentId=ce810c39061cd8a0
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP18
+https://www.blogger.com/video-play.mp4?contentId=419463afa937feaa
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP19
+https://www.blogger.com/video-play.mp4?contentId=fe7df2abc477321f
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP20
+https://www.blogger.com/video-play.mp4?contentId=d142377ed0f0449a
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP21
+https://www.blogger.com/video-play.mp4?contentId=facbd81436ae8566
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP22
+https://www.blogger.com/video-play.mp4?contentId=2ea15224da21f12b
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T7|EP23
+https://www.blogger.com/video-play.mp4?contentId=7c23a2931a323713
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP01
+https://www.blogger.com/video-play.mp4?contentId=b372b4fed8002dcb
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP02
+https://www.blogger.com/video-play.mp4?contentId=fc7f3f4c3fd99e26
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP03
+https://www.blogger.com/video-play.mp4?contentId=b1318846596be2e6
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP04
+https://www.blogger.com/video-play.mp4?contentId=e024e5f600599f6c
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP05
+https://www.blogger.com/video-play.mp4?contentId=18be9354ba739081
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP06
+https://www.blogger.com/video-play.mp4?contentId=1ed4999831e09373
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP07
+https://www.blogger.com/video-play.mp4?contentId=c280433684207219
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP08
+https://www.blogger.com/video-play.mp4?contentId=8739341cf9751afb
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP09
+https://www.blogger.com/video-play.mp4?contentId=16302694de0226fc
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP10
+https://www.blogger.com/video-play.mp4?contentId=2c5a03e5e87c043a
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP11
+https://www.blogger.com/video-play.mp4?contentId=a1db5cc36ac06462
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP12
+https://www.blogger.com/video-play.mp4?contentId=c74ee227b40f0a3b
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP13
+https://www.blogger.com/video-play.mp4?contentId=23f8657a95334007
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP14
+https://www.blogger.com/video-play.mp4?contentId=16ea3f22ef69be84
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP15
+https://www.blogger.com/video-play.mp4?contentId=8b3f58414225b1ab
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP16
+https://www.blogger.com/video-play.mp4?contentId=c71045e1a5f06d6d
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP17
+https://www.blogger.com/video-play.mp4?contentId=f19e38e39273cbc2
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP18
+https://www.blogger.com/video-play.mp4?contentId=6e7dd3ea9cdea0ec
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP19
+https://www.blogger.com/video-play.mp4?contentId=4a7345f1d2d72903
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP20
+https://www.blogger.com/video-play.mp4?contentId=cdf3aa50b1dbb059
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP21
+https://www.blogger.com/video-play.mp4?contentId=db918b8c91090259
+#EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T8|EP22
+https://www.blogger.com/video-play.mp4?contentId=c83fae0cf814f4cc
+
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP1
+https://www.blogger.com/video-play.mp4?contentId=2dc0dc75609ac127&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP2
+https://www.blogger.com/video-play.mp4?contentId=1c06a5fe390b9fa7&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP3
+https://www.blogger.com/video-play.mp4?contentId=7a1f0503ff1374c9&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP4
+https://www.blogger.com/video-play.mp4?contentId=fe9583b147ed4f82&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP5
+https://www.blogger.com/video-play.mp4?contentId=d3d2238a1b411b79&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP6
+https://www.blogger.com/video-play.mp4?contentId=a6cfa6f115a80df8&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP7
+https://www.blogger.com/video-play.mp4?contentId=9e445a86f92b20f2&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP8
+https://www.blogger.com/video-play.mp4?contentId=b3c519014a9e30e3&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP9
+https://www.blogger.com/video-play.mp4?contentId=41286a2a2e7e955b&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP10
+https://www.blogger.com/video-play.mp4?contentId=2182be4de65a8bec&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP11
+https://www.blogger.com/video-play.mp4?contentId=d3cbafe50120f425&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - DUB",BILLIONS T1|EP12
+https://www.blogger.com/video-play.mp4?contentId=721829e16be153fd&CINERBIPTV
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP1
+https://www.blogger.com/video-play.mp4?contentId=d594bf23559a124b
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP2
+https://www.blogger.com/video-play.mp4?contentId=682e6e2bca43a53f
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP3
+https://www.blogger.com/video-play.mp4?contentId=66cc9a2186f4de37
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP4
+https://www.blogger.com/video-play.mp4?contentId=db4e62fd80efab92
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP5
+https://www.blogger.com/video-play.mp4?contentId=876f3c164ee0c80b
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP6
+https://www.blogger.com/video-play.mp4?contentId=fe15767e91d6e491
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP7
+https://www.blogger.com/video-play.mp4?contentId=5eb09fc1096aa318
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP8
+https://www.blogger.com/video-play.mp4?contentId=124833cf8cb74f6e
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP9
+https://www.blogger.com/video-play.mp4?contentId=e7cb71b57a5094eb
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP10
+https://www.blogger.com/video-play.mp4?contentId=cad37ad7958797e8
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP11
+https://www.blogger.com/video-play.mp4?contentId=ca35c0794cb9052
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP12
+https://www.blogger.com/video-play.mp4?contentId=d78a306849c127f
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP13
+https://www.blogger.com/video-play.mp4?contentId=5272a7792fc27363
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP14
+https://www.blogger.com/video-play.mp4?contentId=862deff81fe754c7
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP15
+https://www.blogger.com/video-play.mp4?contentId=8ae999eeab11bf87
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP16
+https://www.blogger.com/video-play.mp4?contentId=5976e7d407bc7a0a
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP17
+https://www.blogger.com/video-play.mp4?contentId=3c67ef0ae7a21a7e
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP18
+https://www.blogger.com/video-play.mp4?contentId=3a8a0ed52378972e
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP19
+https://www.blogger.com/video-play.mp4?contentId=733e36a5487ec951
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP20
+https://www.blogger.com/video-play.mp4?contentId=65c357ff9ea18bc6
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP21
+https://www.blogger.com/video-play.mp4?contentId=afbbd4ba60797e5c
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP22
+https://www.blogger.com/video-play.mp4?contentId=c4d23877dab816a4
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T1|EP23
+https://www.blogger.com/video-play.mp4?contentId=2f6e126d872cb268
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP1
+https://www.blogger.com/video-play.mp4?contentId=2f515840553a20
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP2
+https://www.blogger.com/video-play.mp4?contentId=5531be382be0817c
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP3
+https://www.blogger.com/video-play.mp4?contentId=2e27417ededa7268
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP4
+https://www.blogger.com/video-play.mp4?contentId=a809665717c3f13
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP5
+https://www.blogger.com/video-play.mp4?contentId=b54ff9d251260cbd
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP6
+https://www.blogger.com/video-play.mp4?contentId=82b7ced46d9ebd91
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP7
+https://www.blogger.com/video-play.mp4?contentId=eccf62835aac93ab
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP8
+https://www.blogger.com/video-play.mp4?contentId=e458c2d81f44cb57
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP9
+https://www.blogger.com/video-play.mp4?contentId=6aad64b2101413b
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP10
+https://www.blogger.com/video-play.mp4?contentId=20b82e921fc577f7
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP11
+https://www.blogger.com/video-play.mp4?contentId=afa0d2f9fb8fbd76
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP12
+https://www.blogger.com/video-play.mp4?contentId=2fe5a530a56aaf47
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP13
+https://www.blogger.com/video-play.mp4?contentId=92ed3be9e111eb7
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP14
+https://www.blogger.com/video-play.mp4?contentId=dcbb73e92b3396ea
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP15
+https://www.blogger.com/video-play.mp4?contentId=6fbabd7f85af3603
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP16
+https://www.blogger.com/video-play.mp4?contentId=e99dc07547df7c74
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP17
+https://www.blogger.com/video-play.mp4?contentId=f677177225dfea10
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP18
+https://www.blogger.com/video-play.mp4?contentId=f2f830caa16fbe64
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP19
+https://www.blogger.com/video-play.mp4?contentId=5e063668154ece9b
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP20
+https://www.blogger.com/video-play.mp4?contentId=d7cf9ef2f462825f
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP21
+https://www.blogger.com/video-play.mp4?contentId=6bd8207ef4812044
+#EXTINF:-1 tvg-logo="https://goo.gl/7w5VtB" group-title="BLINDSPOT - DUB", BLINDSPOT T2|EP22
+https://www.blogger.com/video-play.mp4?contentId=9f56a9c1f3861667
+
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP1
+https://www.blogger.com/video-play.mp4?contentId=85ab0b307c49c796&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP2
+https://www.blogger.com/video-play.mp4?contentId=77714d6f7198a5d2&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP3
+https://www.blogger.com/video-play.mp4?contentId=44b480ab1ac94611&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP4
+https://www.blogger.com/video-play.mp4?contentId=51a91bfcda8e42d9&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP5
+https://www.blogger.com/video-play.mp4?contentId=1356eacb7c0ab510&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP6
+https://www.blogger.com/video-play.mp4?contentId=6a6b3443b238991c&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP7
+https://www.blogger.com/video-play.mp4?contentId=ca43b97aae1688a9&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP8
+https://www.blogger.com/video-play.mp4?contentId=dc001cdddda4b08d&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP9
+https://www.blogger.com/video-play.mp4?contentId=b5b87127e54b441a&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP10
+https://www.blogger.com/video-play.mp4?contentId=3f1f2fe04c152c20&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP11
+https://www.blogger.com/video-play.mp4?contentId=221a8e137707c50d&CINERBIPTV
+#EXTINF:-1 tvg-logo="https://goo.gl/jAPfHP" group-title="BILLIONS - LEG",BILLIONS S1|EP12
+https://www.blogger.com/video-play.mp4?contentId=48e5d3eda5e2ce95&CINERBIPTV
+
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP1
+https://www.blogger.com/video-play.mp4?contentId=8b37897c15e163a8&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP2
+https://www.blogger.com/video-play.mp4?contentId=27184677db026458&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP3
+https://www.blogger.com/video-play.mp4?contentId=3b54f0218071b52e&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP4
+https://www.blogger.com/video-play.mp4?contentId=c9b29a1c624a6189&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP5
+https://www.blogger.com/video-play.mp4?contentId=6d62519afe37ce65&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP6
+https://www.blogger.com/video-play.mp4?contentId=9e49717ccaa9dd6&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP7
+https://www.blogger.com/video-play.mp4?contentId=12b093959fe96a45&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP8
+https://www.blogger.com/video-play.mp4?contentId=b71b28dcdbe5c07c&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP9
+https://www.blogger.com/video-play.mp4?contentId=361b0af03a181881&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T1|EP10
+https://www.blogger.com/video-play.mp4?contentId=c2b955bb2690c8bb&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP1
+https://www.blogger.com/video-play.mp4?contentId=506b7c706473029a&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP2
+https://www.blogger.com/video-play.mp4?contentId=5b55a87a65bde01a&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP3
+https://www.blogger.com/video-play.mp4?contentId=c8617a039a167df5&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP4
+https://www.blogger.com/video-play.mp4?contentId=365ebf62cc057d86&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP5
+https://www.blogger.com/video-play.mp4?contentId=8bc0017616f19804&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP6
+https://www.blogger.com/video-play.mp4?contentId=cbe2b39d6061963d&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP7
+https://www.blogger.com/video-play.mp4?contentId=3922fe41ae921bb0&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP8
+https://www.blogger.com/video-play.mp4?contentId=6d89928e0971aa48&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP9
+https://www.blogger.com/video-play.mp4?contentId=8e3688e61fffb51d&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T2|EP10
+https://www.blogger.com/video-play.mp4?contentId=4079bf9ce67ecfce&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP1
+https://www.blogger.com/video-play.mp4?contentId=6d4ed8bb798997d6&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP2
+https://www.blogger.com/video-play.mp4?contentId=a1ddbd2d1b36d4aa&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP3
+https://www.blogger.com/video-play.mp4?contentId=ca429265f751da42&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP4
+https://www.blogger.com/video-play.mp4?contentId=5b680b771dcfd2ef&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP5
+https://www.blogger.com/video-play.mp4?contentId=e93e284226d6b512&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP6
+https://www.blogger.com/video-play.mp4?contentId=5d1c0b9260a539b3&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP7
+https://www.blogger.com/video-play.mp4?contentId=4153f7d0a5ee7267&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP8
+https://www.blogger.com/video-play.mp4?contentId=55d6884c4c345779&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP9
+https://www.blogger.com/video-play.mp4?contentId=2620bb3e98e4d5aa&CINERBIPTV
+#EXTINF:0 tvg-logo="https://goo.gl/JnuJ4v" group-title="BALLERS",BALLERS T3|EP10
+https://www.blogger.com/video-play.mp4?contentId=426e89bdefed67bb&CINERBIPTV
+
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP1
+https://www.blogger.com/video-play.mp4?contentId=b4798761b075adae&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP2
+https://www.blogger.com/video-play.mp4?contentId=13c097dc7d677f68&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP3
+https://www.blogger.com/video-play.mp4?contentId=e2047cb4984322fe&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP4
+https://www.blogger.com/video-play.mp4?contentId=1ce97fed677e8c24&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP5
+https://www.blogger.com/video-play.mp4?contentId=59297baa401ee1cd&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP6
+https://www.blogger.com/video-play.mp4?contentId=974ff5b1b06baccb&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP7
+https://www.blogger.com/video-play.mp4?contentId=289499197cf5220d&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP8
+https://www.blogger.com/video-play.mp4?contentId=39b8696fa958f603&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP9
+https://www.blogger.com/video-play.mp4?contentId=72056a8c9802143&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP10
+https://www.blogger.com/video-play.mp4?contentId=fa12f9517edc169c&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP11
+https://www.blogger.com/video-play.mp4?contentId=9fa7580e4d099761&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T1|EP12
+https://www.blogger.com/video-play.mp4?contentId=1fc7b10fa2a5e222&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP1
+https://www.blogger.com/video-play.mp4?contentId=23b1fe6b608416e5&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP2
+https://www.blogger.com/video-play.mp4?contentId=4ff5e8ca6a27bcc4&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP3
+https://www.blogger.com/video-play.mp4?contentId=d4afddb7ea155b98&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP4
+https://www.blogger.com/video-play.mp4?contentId=2d57cde3da7e3bb0&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP5
+https://www.blogger.com/video-play.mp4?contentId=b9972a24e12cff67&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP6
+https://www.blogger.com/video-play.mp4?contentId=f663d3b8fc390920&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP7
+https://www.blogger.com/video-play.mp4?contentId=d89b0a1a76f4dd06&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP8
+https://www.blogger.com/video-play.mp4?contentId=cddebf1f910d867a&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP9
+https://www.blogger.com/video-play.mp4?contentId=837a49142e24ccf3&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP10
+https://www.blogger.com/video-play.mp4?contentId=11a3c20ed801748&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP11
+https://www.blogger.com/video-play.mp4?contentId=5f317417aa06248d&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP12
+https://www.blogger.com/video-play.mp4?contentId=7caf58d7c134febc&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T2|EP13
+https://www.blogger.com/video-play.mp4?contentId=71fe92b3c43f3edf&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP1
+https://www.blogger.com/video-play.mp4?contentId=b05c34b3f0f762fb&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP2
+https://www.blogger.com/video-play.mp4?contentId=c38dc2d816ac9731&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP3
+https://www.blogger.com/video-play.mp4?contentId=41b9e487db01427b&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP4
+https://www.blogger.com/video-play.mp4?contentId=79ee647a020f17b2&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP5
+https://www.blogger.com/video-play.mp4?contentId=d40a48e46c00d45b&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP6
+https://www.blogger.com/video-play.mp4?contentId=189c0d9bb4cac98f&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP7
+https://www.blogger.com/video-play.mp4?contentId=c3e330bd0674b05b&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP8
+https://www.blogger.com/video-play.mp4?contentId=c862c2bf1b62d0e5&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP9
+https://www.blogger.com/video-play.mp4?contentId=dc4ed91250c5dfb&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP10
+https://www.blogger.com/video-play.mp4?contentId=bb0e8076667e1d07&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP11
+https://www.blogger.com/video-play.mp4?contentId=493bbc7cf2b4287f&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP12
+https://www.blogger.com/video-play.mp4?contentId=1ca775e91e1d3ece&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T3|EP13
+https://www.blogger.com/video-play.mp4?contentId=6bedfcde59bc0a14&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP1
+https://www.blogger.com/video-play.mp4?contentId=dd590129395bcc21&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP2
+https://www.blogger.com/video-play.mp4?contentId=f007c8a50017d234&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP3
+https://www.blogger.com/video-play.mp4?contentId=6686612ddc1d83f&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP4
+https://www.blogger.com/video-play.mp4?contentId=1063bedcf860551&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP5
+https://www.blogger.com/video-play.mp4?contentId=a1953e4faa52f11c&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP6
+https://www.blogger.com/video-play.mp4?contentId=8b9bc66af6780af9&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP7
+https://www.blogger.com/video-play.mp4?contentId=60f7161ded9cac5a&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP8
+https://www.blogger.com/video-play.mp4?contentId=69150e1b683c1d6b&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP9
+https://www.blogger.com/video-play.mp4?contentId=a1f134a3bc85a912&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP10
+https://www.blogger.com/video-play.mp4?contentId=ac783dcc1b754b7a&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP11
+https://www.blogger.com/video-play.mp4?contentId=a474a387944f25cd&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP12
+https://www.blogger.com/video-play.mp4?contentId=20d1bea621ea9c65&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T4|EP13
+https://www.blogger.com/video-play.mp4?contentId=7cf972326a839b35&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP1
+https://www.blogger.com/video-play.mp4?contentId=6c70a69500a42bd&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP2
+https://www.blogger.com/video-play.mp4?contentId=c1a746a6739f54d5&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP3
+https://www.blogger.com/video-play.mp4?contentId=4f07101f62342813&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP4
+https://www.blogger.com/video-play.mp4?contentId=803746fcd20afa12&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP5
+https://www.blogger.com/video-play.mp4?contentId=b8537550f2d640f9&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP6
+https://www.blogger.com/video-play.mp4?contentId=c082511f255a91d4&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP7
+https://www.blogger.com/video-play.mp4?contentId=c454331cca04f692&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP8
+https://www.blogger.com/video-play.mp4?contentId=917d66c003ef9d61&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP9
+https://www.blogger.com/video-play.mp4?contentId=a3eabc17e2cb13e9&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP10
+https://www.blogger.com/video-play.mp4?contentId=b7ab2d92664ead89&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP11
+https://www.blogger.com/video-play.mp4?contentId=4389cfa83e7390ab&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T5|EP12
+https://www.blogger.com/video-play.mp4?contentId=a5a5b1e5b8255ad7&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP1
+https://www.blogger.com/video-play.mp4?contentId=f1676cac948b6264&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP2
+https://www.blogger.com/video-play.mp4?contentId=4a4709e99fe060d0&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP3
+https://www.blogger.com/video-play.mp4?contentId=4cfbe4dd2fd08f23&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP4
+https://www.blogger.com/video-play.mp4?contentId=5713633bff409555&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP5
+https://www.blogger.com/video-play.mp4?contentId=e8118b1182d7d911&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP6
+https://www.blogger.com/video-play.mp4?contentId=7f4e353b19268a43&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP7
+https://www.blogger.com/video-play.mp4?contentId=71b21c5762f04a55&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP8
+https://www.blogger.com/video-play.mp4?contentId=f852c37a8f800089&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP9
+https://www.blogger.com/video-play.mp4?contentId=f5052ef369ffee4&
+#EXTINF:-1 tvg-logo="https://goo.gl/vSRTge" group-title="AMERICAN HORROR STORY - DUB",AHS T6|EP10
+https://www.blogger.com/video-play.mp4?contentId=7e12011694339538&
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP01
+http://www.blogger.com/video-play.mp4?contentId=a58a1186fbe2b365
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP02
+http://www.blogger.com/video-play.mp4?contentId=df7ed576752fb001
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP03
+http://www.blogger.com/video-play.mp4?contentId=815a4d9bf0601b76
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP04
+http://www.blogger.com/video-play.mp4?contentId=704067f0a240584f
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP05
+http://www.blogger.com/video-play.mp4?contentId=3a6193d05c5c995e
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP06
+http://www.blogger.com/video-play.mp4?contentId=ee1b084d3fb4ba98
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP07
+http://www.blogger.com/video-play.mp4?contentId=458a9b9ad9fddd32
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP08
+http://www.blogger.com/video-play.mp4?contentId=2835a94483d8e248
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP09
+http://www.blogger.com/video-play.mp4?contentId=292a3ffde16d4f29
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl8G2a5.png" group-title="A BIBLIA" , A BIBLIA T01|EP10
+http://www.blogger.com/video-play.mp4?contentId=9bbb30986c62a297
 
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP01
 http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/01-BAIXO.mp4

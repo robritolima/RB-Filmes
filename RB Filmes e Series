@@ -1,8 +1,8 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/operAÇÃO-red-sparrow-jennifer-lawrence-poster.png"group-title="LANÇAMENTO",OperAÇÃO Red Sparrow LEG
-http://cdn622.micetop.us/content/delivery/filmes2018/REDSPARROWLEG-BAIXO.mp4
+
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/02/01/11/38/0063535.jpg"group-title="LANÇAMENTO",Três Anúncios Para um AÇÃO LEG
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/TRSANCSPRUMCRMLEG.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/images-3.jpg"group-title="LANÇAMENTO",Cinquenta Tons de Liberdade LEG
@@ -1580,27 +1580,6 @@ http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP12.mp4
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP01
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/001-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP02
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/002-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP03
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/003-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP04
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/004-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP05
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/005-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP06
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/006-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP07
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/007-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP08
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/008-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP09
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/009-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP10
-http://cdn6.micetop.us/content/delivery/lostinspace/01dub/010-BAIXO.mp4
-
 #EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP01
 https://www.blogger.com/video-play.mp4?contentId=a1f8a6276f129e2d
 #EXTINF:0  tvg-logo="http://oi67.tinypic.com/mct2tc.jpg"  group-title="CASTLE",CASTLE T1|EP02
@@ -2320,84 +2299,47 @@ http://www.blogger.com/video-play.mp4?contentId=292a3ffde16d4f29
 http://www.blogger.com/video-play.mp4?contentId=9bbb30986c62a297
 
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP01
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/01-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP02
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/02-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP03
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/03-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP04
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/04-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP05
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/05-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP06
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/06-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP07
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/07-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP08
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/08-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP09
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/09-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T1|EP10
-http://cdn1.ntcdn.us/content/httpdelivery/ash/01leg/10-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP01
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/01-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP02
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/02-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP03
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/03-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP04
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/01-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP05
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/05-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP06
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/06-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP07
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/07-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP08
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/08-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP09
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/09-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CtrctK" group-title="Ash vs Evil Dead",Ash vs Evil Dead LEG T2|EP10
-http://cdn1.ntcdn.us/content/httpdelivery/ash/02leg/10-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/ASHVSEVILT02EP10.mp4
 
 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP01
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP02
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP03
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP04
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP05
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP06
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP07
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP08
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP09
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP10
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP11
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP12
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP13
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP14
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP15
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP16
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP17
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/17-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP18
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/18-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vzrhb6" group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T1|EP01 
 https://www.blogger.com/video-play.mp4?contentId=493119be16ec0c3&
@@ -2426,17 +2368,24 @@ https://www.blogger.com/video-play.mp4?contentId=e0293667701129f1&
 #EXTINF:-1 tvg-logo="https://goo.gl/jyjs63" group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T1|EP13
 https://www.blogger.com/video-play.mp4?contentId=a1963c2a4f60812b&
 #EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T2|EP1
-http://cdn622.micetop.us/content/delivery/casadepapel/02dub/01-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/LCSDPLT02EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T2|EP2
-http://cdn622.micetop.us/content/delivery/casadepapel/02dub/02-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/LCSDPLT02EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T2|EP3
-http://cdn622.micetop.us/content/delivery/casadepapel/02dub/03-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/LCSDPLT02EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T2|EP4
-http://cdn622.micetop.us/content/delivery/casadepapel/02dub/04-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/LCSDPLT02EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T2|EP5
-http://cdn622.micetop.us/content/delivery/casadepapel/02dub/05-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/LCSDPLT02EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T2|EP6
-http://cdn622.micetop.us/content/delivery/casadepapel/02dub/06-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/LCSDPLT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T2|EP7
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/LCSDPLT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T2|EP8
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/LCSDPLT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6tGFU9"group-title="LA CASA DE PAPEL", LA CASA DE PAPEL T2|EP9
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/LCSDPLT02EP09.mp4
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LVeJqk" group-title="UNDER THE DOME", UTDPI T1|EP1
 https://www.blogger.com/video-play.mp4?contentId=978e6ad0b6812c8c&
@@ -2980,114 +2929,21 @@ https://ph2dqz.oloadcdn.net/dl/l/YCVRgehekeYZoc_w/MAy-4Ljcy_Y/Lethal.weapon.02x1
 https://1fgm8k2.oloadcdn.net/dl/l/v4aRk2V3Em2el_L1/IXmX4p5m2NE/Lethal+Weapon+02x15+480p+Dub.mkv.mp4?
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP1
-http://cdn422.micetop.us/content/httpdelivery/mecanismo/01dub/01-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP2
-http://cdn422.micetop.us/content/httpdelivery/mecanismo/01dub/02-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP3
-http://cdn422.micetop.us/content/httpdelivery/mecanismo/01dub/03-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP4
-http://cdn422.micetop.us/content/httpdelivery/mecanismo/01dub/04-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP5
-http://cdn422.micetop.us/content/httpdelivery/mecanismo/01dub/05-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP6
-http://cdn422.micetop.us/content/httpdelivery/mecanismo/01dub/06-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP7
-http://cdn422.micetop.us/content/httpdelivery/mecanismo/01dub/07-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP8
-http://cdn422.micetop.us/content/httpdelivery/mecanismo/01dub/08-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP1
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP2
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP3
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP4
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP5
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP6
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP7
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP8
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP9
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP10
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP11
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP12
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP13
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP14
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP15
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP16
-http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/16-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP1
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP2
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP3
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP4
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP5
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP6
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP7
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP8
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP9
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP10
-http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/10-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP1
-http://cdn422.micetop.us/content/httpdelivery/atypical/01dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP2
-http://cdn422.micetop.us/content/httpdelivery/atypical/01dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP3
-http://cdn422.micetop.us/content/httpdelivery/atypical/01dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP4
-http://cdn422.micetop.us/content/httpdelivery/atypical/01dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP5
-http://cdn422.micetop.us/content/httpdelivery/atypical/01dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP6
-http://cdn422.micetop.us/content/httpdelivery/atypical/01dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP7
-http://cdn422.micetop.us/content/httpdelivery/atypical/01dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP8
-http://cdn422.micetop.us/content/httpdelivery/atypical/01dub/08-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP1
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP2
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP3
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP4
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP5
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP6
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP7
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP8
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP9
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2mGh9c"group-title="The Alienist",The Alienist LEG T1|EP10
-http://cdn422.micetop.us/content/httpdelivery/alienist/01leg/10-BAIXO.mp4
-
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP08.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP1
 http://cdn422.micetop.us/content/httpdelivery/kf/01leg/01-BAIXO.mp4
@@ -3660,6 +3516,4 @@ http://cdn422.micetop.us/content/httpdelivery/themist/01leg/08-BAIXO.mp4
 http://cdn422.micetop.us/content/httpdelivery/themist/01leg/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP10 (LEG)
 http://cdn422.micetop.us/content/httpdelivery/themist/01leg/10-BAIXO.mp4
-
-
 

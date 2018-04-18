@@ -2,8 +2,7 @@
 
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/operacao-red-sparrow-jennifer-lawrence-poster.png"group-title="LANÇAMENTO",Operação Red Sparrow LEG
-
-
+http://cdn622.micetop.us/content/delivery/filmes2018/REDSPARROWLEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/02/01/11/38/0063535.jpg"group-title="LANÇAMENTO",Três Anúncios Para um Crime LEG
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/TRSANCSPRUMCRMLEG.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/images-3.jpg"group-title="LANÇAMENTO",Cinquenta Tons de Liberdade LEG
@@ -1620,6 +1619,32 @@ http://lh3.googleusercontent.com/K0ULXT-MX9gyMiLJ_1Cee-iwejRt-Vc6TpIBRWiyP5A4jGX
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="",  Loucas pra Casar
 http://lh3.googleusercontent.com/JC78QldoLDN_va38BasMoSCQoWFbSRgPRiYfCffHh_YULnYeJQnFegXVcdifvBLlOY0=m18
 
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP01
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP01-up.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP02
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP02-up.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP03
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP03-up.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP04
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP04-up.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP05
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP05-up.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP06
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP06-up.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP07
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP08
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP09
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP10
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP11
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP12
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP12.mp4
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP01
 http://cdn6.micetop.us/content/delivery/lostinspace/01dub/001-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/EKhNfL" group-title="Perdidos no Espaço",Perdidos no Espaço T1|EP02
@@ -3171,204 +3196,7 @@ http://cdn4.micetop.us/content/httpdelivery/ac/01dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP10
 http://cdn4.micetop.us/content/httpdelivery/ac/01dub/10-BAIXO.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP1
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP2
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP3
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP4
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP5
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP6
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP7
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP8
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP9
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP10
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/10-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP11
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/11-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP12
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/12-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP13
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/13-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP14
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/14-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP15
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/15-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP16
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/16-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP17
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/17-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP18
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/18-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP19
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/19-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP20
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/20-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP21
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/21-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T1|EP22
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/01dub/22-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP1
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP2
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP3
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP4
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP5
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP6
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP7
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP8
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP9
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP10
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/10-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP11
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/11-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP12
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/12-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP13
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/13-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP14
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/14-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP15
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/15-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP16
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/16-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP17
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/17-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP18
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/18-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP19
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/19-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP20
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/20-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP21
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/21-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T2|EP22
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/02dub/22-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP1
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP2
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP3
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP4
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP5
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP6
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP7
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP8
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP9
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP10
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/10-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP11
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/11-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP12
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/12-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP13
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/13-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP14
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/14-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP15
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/15-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP16
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/16-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD DUB T3|EP17
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/17-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T3|EP18
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/18-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T3|EP19
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/19-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T3|EP20
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/20-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T3|EP21
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/21-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T3|EP22
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-videos/aos/03leg/22-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP1
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP2
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP3
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP4
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP5
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP6
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP7
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP8
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP9
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP10
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP11
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP12
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP13
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP14
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP15
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP16
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP17
-http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/MAoS/04leg/17-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD off LEG T4|EP18
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD off LEG T4|EP19
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD off LEG T4|EP20
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP21
-http://cdn7.ntcdn.us/content/httpdelivery/MAoS/04leg/21-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T4|EP22
-http://cdn7.ntcdn.us/content/httpdelivery/MAoS/04leg/22-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP1/2
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/001e002-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP3
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP4
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP5
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP6
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP7
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP8
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP9
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP10
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP11
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP12
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/iMBvCW"group-title="Marvel’s Agents of SHIELD",Agents of SHIELD LEG T5|EP13
-http://cdn1.ntcdn.us/content/httpdelivery/MAoS/05leg/13-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E01/02 - LEG
 http://cdn4.micetop.us/content/httpdelivery/inhumans/01leg/01-BAIXO.mp4
@@ -3613,165 +3441,6 @@ http://cdn4.micetop.us/content/httpdelivery/runaways/01leg/08-BAIXO.mp4
 http://cdn4.micetop.us/content/httpdelivery/runaways/01leg/09-BAIXO.mp4
 #EXTINF:0 tvg-logo="https://goo.gl/sE5TwT" group-title="Marvel’s Runaways",Marvel’s Runaways LEG T1|EP10
 http://cdn4.micetop.us/content/httpdelivery/runaways/01leg/10-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP1
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP2
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP3
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP4
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP5
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP6
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP7
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP8
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP9
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP10
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP11
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP12
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP13
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP14
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP15
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP16
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP17
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/17-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP18
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/18-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP19
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/19-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP20
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/20-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP21
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/21-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T1|EP22
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/01dub/22-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP1
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP2
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP3
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP4
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP5
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP6
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP7
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP8
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP9
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP10
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP11
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP12
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP13
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP14
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP15
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP16
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP17
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/17-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP18
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/18-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP19
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/19-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP20
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/20-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP21
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/21-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T2|EP22
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/02dub/22-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP1
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP2
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP3
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP4
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP5
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP6
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP7
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP8
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP9
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP10
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP11
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP12
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T3|EP13
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/03dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP1-2
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/01e02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP3
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP4
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP5
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP6
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP7
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP8
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP9
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP10
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP11
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP12
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP13
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP14
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP15
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP16
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP17
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/17-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP18
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/18-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP19
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/19-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP20
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/20-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP21
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/21-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP22
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/22-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jt1wcu" group-title="PRISON BREAK", PRISON BREAK T4|EP23-24
-http://cdn1.ntcdn.us/content/httpdelivery/prisonbreak/04dub/23e24-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.1
 http://www.blogger.com/video-play.mp4?contentId=8ca7f7f864406273

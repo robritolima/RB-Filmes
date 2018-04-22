@@ -1345,33 +1345,38 @@ http://lh3.googleusercontent.com/CJgoST7s7j1ctay-guAqwVHmLFagk2uyEY7lpAIoFNZ3rX5
 
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="LANÇAMENTO", O Pacto
 http://lh3.googleusercontent.com/cs9A3n0coNPiHzigwr83u0-IPMHDxHS9PURpi7LD2VWc3TYk40mkM-k8L9MSNlu95jo=m18
-
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="LANÇAMENTO", Uma Noite de AÇÃO
 http://lh3.googleusercontent.com/aNGzoDCWNIJKBQkPoW2CCx-HvHIxsWmHPkIRUeMXlzNlo8Ab8R5Rz7ys81KM23dd284=m18
-
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="LANÇAMENTO", Uma Noite para Esquecer
 http://lh3.googleusercontent.com/_kZa0ybCJ25ufKjzHoZJHXLiew_hkoaUA5OMLR9NsCoMILAquSu6KqS6Ephx_NdBs3g=m18
-
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="LANÇAMENTO", Todo Mundo Quase Morto
 http://lh3.googleusercontent.com/U4sQ9Q63ZsWI9qUSwfwhejHGjiRNOVtUQxjyhiyGY57gxBR0ddsgFqCMNuYIi6eAzZc=m18
-
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="LANÇAMENTO", V/H/S/2
 http://lh3.googleusercontent.com/zWhBdTKACHo1aUgZt5kYEzGISEci0Zi_SIYp9BlQzAcfWkeZhagcmbuJxPSr1MZ-7Vg=m18
-
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="LANÇAMENTO", A Marca do Medo
 http://lh3.googleusercontent.com/BPQEN6FTQVzAe7blvSmU4iC-wODbk1W5aElTlVLuYzZzY2QYid2UdtuSmDDou-GCmZ8=m18
-
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="LANÇAMENTO", Boa Sorte
 http://lh3.googleusercontent.com/IfESROafKmdIwS26nrmI0uI5HI6uCMh16BOauBfrUZqtzF1I6rKUCsVLPtjWncBnkME=m18
-
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="LANÇAMENTO", Na Quebrada
 http://lh3.googleusercontent.com/jFjqSlPqPRYp61N9lf_0EsCbk_kXdfk6NBvs7hOUtA7q6hQR-T7g8wZbPtSH7YjCn7c=m18
-
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="NACIONAL", Os Caras de Pau em O Misterioso Roubo do Anel
 http://lh3.googleusercontent.com/K0ULXT-MX9gyMiLJ_1Cee-iwejRt-Vc6TpIBRWiyP5A4jGX87hoTXA5Q5ay3LKuAe_o=m18
-
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="NACIONAL",  Loucas pra Casar
 http://lh3.googleusercontent.com/JC78QldoLDN_va38BasMoSCQoWFbSRgPRiYfCffHh_YULnYeJQnFegXVcdifvBLlOY0=m18
+
+#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP01
+http://cdn422.micetop.us/content/httpdelivery/station19/01leg/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP02
+http://cdn422.micetop.us/content/httpdelivery/station19/01leg/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP03
+http://cdn622.micetop.us/content/delivery/station19/01leg/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP04
+http://cdn622.micetop.us/content/delivery/station19/01leg/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP05
+http://cdn622.micetop.us/content/delivery/station19/01leg/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP06
+http://cdn622.micetop.us/content/delivery/station19/01leg/06-BAIXO.mp4
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP01
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP01-up.mp4

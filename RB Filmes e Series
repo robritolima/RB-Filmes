@@ -1,8 +1,15 @@
 
 #EXTM3U
-
 #EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO",
 
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/circulodefogo_1.jpg"group-title="LANÇAMENTO",Círculo de Fogo 2 LEG
+http://cdn622.micetop.us/content/delivery/filmes2018/PACIFIC2LEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/operacao-red-sparrow-jennifer-lawrence-poster.png"group-title="LANÇAMENTO",Operação Red Sparrow LEG
+http://cdn622.micetop.us/content/delivery/filmes2018/REDSPARROWLEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/888.jpg"group-title="LANÇAMENTO", A Maldição da Casa Winchester LEG
+http://cdn622.micetop.us/content/delivery/filmes2018/WINCHESTERLEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/18/22/35/0798692.jpg"group-title="LANÇAMENTO",Projeto Éden DUB
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/PRJCTEDN.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/circulodefogo_1.jpg"group-title="LANÇAMENTO", Círculo de Fogo 2 LEG
 http://cdn622.micetop.us/content/delivery/filmes2018/PACIFIC2LEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/02/01/11/38/0063535.jpg"group-title="LANÇAMENTO",Três Anúncios Para um Crime LEG
@@ -2868,6 +2875,7 @@ http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/14-BAIXO.mp4
 http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/15-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wF6o4r"group-title="Timeless",Timeless LEG T1|EP16
 http://cdn422.micetop.us/content/httpdelivery/timeless/01leg/16-BAIXO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP1
 http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP2
@@ -2888,6 +2896,7 @@ http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/08-BAIXO.mp4
 http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/nocioy"group-title="Sete Segundos",Sete Segundos DUB T1|EP10
 http://cdn422.micetop.us/content/httpdelivery/setesegundos/01dub/10-BAIXO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP1
 http://cdn422.micetop.us/content/httpdelivery/atypical/01dub/01-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wZ9e76"group-title="Atypical",Atypical DUB T1|EP2

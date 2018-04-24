@@ -1306,18 +1306,17 @@ http://lh3.googleusercontent.com/K0ULXT-MX9gyMiLJ_1Cee-iwejRt-Vc6TpIBRWiyP5A4jGX
 http://lh3.googleusercontent.com/JC78QldoLDN_va38BasMoSCQoWFbSRgPRiYfCffHh_YULnYeJQnFegXVcdifvBLlOY0=m18
 
 #EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP01
-http://cdn422.micetop.us/content/httpdelivery/station19/01leg/01-BAIXO.mp4
+http://cdn422.micetop.us/content/httpdelivery/station19/01leg/01-BAIXO.mp4?ttl=1524547026&t=d907377f9147b32c0a56f93d718437ee
 #EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP02
-http://cdn422.micetop.us/content/httpdelivery/station19/01leg/02-BAIXO.mp4
+http://cdn422.micetop.us/content/httpdelivery/station19/01leg/02-BAIXO.mp4?ttl=1524547267&t=6f3dafd6c7a33460681798fd296599e4
 #EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP03
-http://cdn622.micetop.us/content/delivery/station19/01leg/03-BAIXO.mp4
+http://cdn622.micetop.us/content/delivery/station19/01leg/03-BAIXO.mp4?ttl=1524547254&t=b487f6715837ccd15a91ed16b61eada3
 #EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP04
-http://cdn622.micetop.us/content/delivery/station19/01leg/04-BAIXO.mp4
+http://cdn622.micetop.us/content/delivery/station19/01leg/04-BAIXO.mp4?ttl=1524547265&t=cc2027ef669bb9dfc96986f1645e7599
 #EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP05
-http://cdn622.micetop.us/content/delivery/station19/01leg/05-BAIXO.mp4
+http://cdn622.micetop.us/content/delivery/station19/01leg/05-BAIXO.mp4?ttl=1524547372&t=e26e0512c2c2a12fcf0e1011409c03e0
 #EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP06
-http://cdn622.micetop.us/content/delivery/station19/01leg/06-BAIXO.mp4
-
+http://cdn622.micetop.us/content/delivery/station19/01leg/06-BAIXO.mp4?ttl=1524547031&t=63e4631e38f5e6790517a1a2d1ff4175
 
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP01
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP01-up.mp4
@@ -2710,26 +2709,6 @@ http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand
 #EXTINF:-1 tvg-logo="https://goo.gl/Toih25"group-title="O Mecanismo",O Mecanismo T1|EP8
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP08.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP1
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP2
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP3
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP4
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP5
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP6
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP7
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP8
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP9
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/gb7TSk"group-title="Knightfall",Knightfall LEG T1|EP10
-http://cdn422.micetop.us/content/httpdelivery/kf/01leg/10-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TnXyHW"group-title="Altered Carbon",Altered Carbon DUB T1|EP1
 http://cdn422.micetop.us/content/httpdelivery/ac/01dub/01-BAIXO.mp4
@@ -2950,29 +2929,29 @@ http://cdn422.micetop.us/content/httpdelivery/startrekd/01leg/14-BAIXO.mp4
 http://cdn422.micetop.us/content/httpdelivery/startrekd/01leg/15-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP1
-http://cdn422.micetop.us/content/httpdelivery/bl/01dub/01-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP2
-http://cdn422.micetop.us/content/httpdelivery/bl/01leg/02-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP3
-http://cdn422.micetop.us/content/httpdelivery/bl/01leg/03-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP4
-http://cdn422.micetop.us/content/httpdelivery/bl/01leg/04-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP5
-http://cdn422.micetop.us/content/httpdelivery/bl/01leg/05-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP6
-http://cdn422.micetop.us/content/httpdelivery/bl/01leg/06-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP7
-http://cdn422.micetop.us/content/httpdelivery/bl/01leg/07-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP8
-http://cdn422.micetop.us/content/httpdelivery/bl/01leg/08-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP9
-http://cdn422.micetop.us/content/httpdelivery/bl/01leg/09-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP10
-http://cdn422.micetop.us/content/httpdelivery/bl/01leg/10-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP11
-http://cdn6.micetop.us/content/delivery/bl/01leg/11-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRT01EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Amy8m4" group-title="Black Lightning", Black Lightning LEG T1|EP12
-http://cdn6.micetop.us/content/delivery/bl/01leg/12-BAIXO.mp4
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RANGRS01EP12.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wH9XWY" group-title="SOB PRESSÃO", SOB PRESSÃO DUB T1|EP1
 http://cdn422.micetop.us/content/httpdelivery/sobpressao/01dub/01-BAIXO.mp4

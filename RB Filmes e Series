@@ -1,14 +1,14 @@
 
 #EXTM3U
 
-filmes 23/04
-
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/circulodefogo_1.jpg"group-title="LANÇAMENTO",Círculo de Fogo 2 LEG
-http://cdn622.micetop.us/content/delivery/filmes2018/PACIFIC2LEG-BAIXO.mp4?ttl=1524540614&t=528b767db09bad22e93d17a1831f4cf5
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/operacao-red-sparrow-jennifer-lawrence-poster.png"group-title="LANÇAMENTO",Operação Red Sparrow LEG
-http://cdn622.micetop.us/content/delivery/filmes2018/REDSPARROWLEG-BAIXO.mp4?ttl=1524540674&t=8104b23cc44e39439866375e701478c7
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/888.jpg"group-title="LANÇAMENTO", A Maldição da Casa Winchester LEG
-http://cdn622.micetop.us/content/delivery/filmes2018/WINCHESTERLEG-BAIXO.mp4?ttl=1524540722&t=30a61c8fddc647b7fa3229fdd130ec3b
+#EXTINF:-1 tvg-logo="https://goo.gl/TqqAkq"group-title="LANÇAMENTO",Aventura Perigosa DUB
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/AVNTRPRGS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/SE7PdU"group-title="LANÇAMENTO",Vende-se Esta Casa DUB
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/VNDSESTCS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/MjNBC4"group-title="LANÇAMENTO",Viva: A Vida é uma Festa DUB
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/VIVAAVDEUMFST.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7jck2Z"group-title="LANÇAMENTO",Somos Todos Iguais DUB
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/SMSTDSIGUS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/18/22/35/0798692.jpg"group-title="LANÇAMENTO",Projeto Éden DUB
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/PRJCTEDN.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/02/01/11/38/0063535.jpg"group-title="LANÇAMENTO",Três Anúncios Para um Crime LEG
@@ -713,74 +713,50 @@ https://lh4.googleusercontent.com/UqFxWMNAuGgppIU6UYfPVvvIuXeSI_2AgcX1RujszJB3q7
 
 #EXTINF:-1 tvg-logo="http://www.pcinformatica.info/img-produto/1000/img_92.0175_foto_1.jpg" group-title="AÇÃO" ,Tomb Raider 2
 https://lh3.googleusercontent.com/5GY9NWAOENiQtyugloaN2ksMLoGttZa5KhdB79KG7-KIdb1RI1Z00c719uZd-BWr73rlzfCrPpSnYnWJ4pRYQxJo4lPwhirSbDz2=m18
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0itP8CT.jpg" group-title="AÇÃO" ,Os Mercenarios 2
 https://lh3.googleusercontent.com/d231qgAsR38Udr8SwutdCVy_hhqBHJeIiVw04YHxtBGSQI9ldbaaaEHmfU7WYK4s-_-Q-AXykQ=m18
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kO6tBOY.jpg" group-title="AÇÃO" ,Enfurecidos
 https://lh3.googleusercontent.com/MFrdtR6LtgfBvg9lPOTMu9kvLiYg0ZNUOI4QTw-5hz0hqb5nh0X5w8YjZ4DTMfoXbxHuahSNHbM=m18
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/otxFvW2.jpg" group-title="COMEDIA" ,Meu Passado Me Condena 
 https://lh3.googleusercontent.com/5M_Kd66CXJf2VPP3tx3qaerLCTtNAOMzAdXvNuTSTp8hjfkoamu6ztv4GsxuQ4HLTD_xxZUD3iU=m18
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uLffX3C.jpg" group-title="COMEDIA" ,O que eu fiz para merecer isso
 https://lh3.googleusercontent.com/vkKmZdNBOXvWS1WGb8riX5UTeZJX1V5VzG1XsScD7CGGJqB45fsVue5SBn_Odi_dcDFpGXVUBsQ=m18
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JFhfWq3.jpg" group-title="ROMANCE" ,Foi Apenas um Sonho
 https://lh3.googleusercontent.com/oSkdxPHrgW80lhSvlXzEYCnX3gJwOIMxKecfgCZWp5hCWgCVScMTEboLf7rmqF13vKL6btfrwZc=m18
-
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/3N7OsJfqg9sWS9nkY0jcMtmZQSG.jpg" group-title="TERROR" ,A Hospedeira
 https://lh3.googleusercontent.com/k70ZJspBqNlbs217InDKcQzSjIeEr2FdPiDbyGIIUND8-F9J9oXwV2i7rZxD2y20fHiD5QtAGQATOxNz_4-8oEYphWkYQrMi=m18
-
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.popfilmeshd.net/wp-content/uploads/2016/10/AoBWBZwxbnfiUAwGPN8ctuR01wE.jpg?resize=185%2C278" group-title="COMEDIA" ,Festa da Salsicha
 https://lh4.googleusercontent.com/3Vh5SjUJB15gMSSkzc7TRgTufsDEb7wEKmnPRq6iZTMAu8rxcBuhxDp7UalV0TrfhsEX3oArE79mas7VhSDkAE44VbgRduVHOBqGKcckNvT4OK91ksTEgsJsEQGvSqEng17Phw=m18
-
-
 #EXTINF:-1 tvg-logo="http://www.impawards.com/2016/posters/nerve_ver14_xxlg.jpg" group-title="SUSPENSE" ,Nerve - Um Jogo Sem Regras
 https://lh3.googleusercontent.com/GPve_brtcr1s4U2mp5FaS8sNlu-UYPFXo6PgXOMH6uNnRlhf1J2DVtt8MzkHZBNJaS1w3yNwxrjvnQ=m18
-
 #EXTINF:-1 tvg-logo="http://www.filmesandseries.com/wp-content/uploads/2016/12/o-lar-das-criancas-peculiares-dublado-capa-248x300.jpg" group-title="AVENTURA" ,Lar das Crianças Peculiares HD
 https://lh3.googleusercontent.com/vU8HV4Y7PiIUr6ZbiCXYaWgMXmyU00Iq3vAeAqjB8wB-eA6Y9b9Qw0vDK6-gfp0op9uNpKE1PI2rDg=m18
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.popfilmeshd.net/wp-content/uploads/2016/08/2HlNAXiWC7g5aXQr0VdfYuGHNVI.jpg?resize=185%2C278" group-title="COMEDIA" ,Os Caça Noivas
 https://www.sharedbr.net/link.php?key=qX5Z5OX5Xi61LMjkr3MSNmcurpQR5BvYMZbHtNaTMdZ
-
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.popfilmeshd.net/wp-content/uploads/2016/12/31MfThsNv2EZhKhyWJfcgWHVep3.jpg?resize=185%2C278" group-title="ROMANCE" ,Um Homem de Sorte
 https://lh5.googleusercontent.com/s0x-NyEX2_FEkDyajgOb_Rbf0E4Dg6xEp3_mIh8-cCJ3vE0gbvmLkpQ9xdUhzgWAMJNv4rKyj1AR2FkHAFvhwDZXAT1hN67iheIGYwj_098gL6_taquwL5BXjZORIHCaJY7idg=m18
-
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/p9PMuQw7FlVF5O2q2GbNpt5vt7z.jpg" group-title="ANIMAÇÃO" ,Enrolados Para Sempre
 https://lh3.googleusercontent.com/wsxNzor2j-HSTtLWw9zVh0gMhymSUciMQhtx6QhgFFsk7_n4DuHB_k3ToG72rHYoE1mGzN4_EF1dYGYM2q1Jz9IdOxln_gWP6g=m18
-
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/hjoXz3zM9ewA5nlpyxI4YfWqWtk.jpg" group-title="ROMANCE" ,Amor Além da Vida
 https://lh3.googleusercontent.com/r6xQ5g9_5qnUhAUOz_gB6-yBJm_r4YMA6GnbJHmQDl6R8KPw4sc5j5RGSA03ITVXpAYPyRbNajnuGtqUhcixJCWMjNku33bC=m18
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mxhQNoH.jpg" group-title="ROMANCE" ,Diário de Uma Paixão
 https://lh3.googleusercontent.com/jTYYJQxiSyRhdJ1h15vZCyx7C6GdhwcEJ0F2bm3QXPkFDXBAOtKfXWlz7VjvEh4Rb8c1favh7g=m18
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DafjyA3.jpg" group-title="TERROR" ,Floresta Maldita
 https://lh3.googleusercontent.com/5_r-FJB8TCA7_ej2Emubw0s6P0pMVhCSTUCuTRrY10PcQgONhz64hTEOGW33RQlLotqS8AkkRg=m18
-
 #EXTINF:-1  tvg-logo="http://i.imgur.com/xYsn7xN.jpg" group-title="LANÇAMENTO",Trolls
 https://lh3.googleusercontent.com/xcsmxRmUXb7shd5LPCLDdspNdWBy4Wn5bfxZ8SjDDsmd8dllPjfp0HPVLqFYkRu_EGt0UaFVQfcNzA=m15
-
 #EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/_ShPj6Z7ULsM/TF2jEx23qII/AAAAAAAADYk/2GnPmvMmq5c/s320/Final+Fantasy+The+Spirits+Within+Dublado.jpg" group-title="AVENTURA",Final Fantasy
 https://lh3.googleusercontent.com/4LBIcNUlkjDN-fxn37Y_PN01uRmE3eogsT6kGjoFqx_tPA7MbM8iNQ4oo2KLhQiZgHQ3e6wHeg=m18
-
 #EXTINF:-1  tvg-logo="http://4.bp.blogspot.com/-0B5N4A3o5pQ/UjyjhlYesOI/AAAAAAAAB_U/CAHoF0K31P0/s1600/Jogos+Mortais+3.jpg" group-title="TERROR",Jogos Mortais 3
 https://lh3.googleusercontent.com/fCY0hO83zP8W82DHVkEM6RzxXgfaP1wfKX1oIcY7OVj8MqIWDh08S5AilYAWfnZW1YiO-XeUiw=m18
-
 #EXTINF:-1  tvg-logo="http://liviaseriados.com/loja/product_images/z/152/O_Colecionador_de_Corpos__58703_zoom.jpg" group-title="SUSPENSE",O Colecionador de Corpos
 https://lh3.googleusercontent.com/GwZMIK_1ftHIPnHBT9eBzckrF8IVouVqYqY-mFsPe17APYhJQLSzaxROAHBFMjB9pPX7uEuwvjw=m18
-
 #EXTINF:-1  tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/03/05/19871276.jpg" group-title="SUSPENSE",A Chave Mestra	
 https://lh3.googleusercontent.com/YnPqWkGkDu0iAyqYXFdaYOYjBNWTGTBmzOzBJhls5E5RtnpsvnnhEdknCS45KrgJr9agza89rg=m18
-
 #EXTINF:-1  tvg-logo="http://www.filmesonlinehd11.cc/wp-content/uploads/2016/09/o-matadouro-204x300.jpg" group-title="TERROR",O Matadouro
 https://lh3.googleusercontent.com/eyUBvKXOgwd7BsWsOl9q-kjrTA5g5VsQU8np4G-f5jmU399ib8NK9O0S34Jfl1xJnpu7aEQMNN4=m18
-
 #EXTINF:-1  tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/filme_13355.jpg" group-title="COMEDIA",Duplex
 https://lh6.googleusercontent.com/ajyvb3icBTtiv2Hfyj-aEOzNImtSjF39lOvJ6m0FkDaBDtR4nJPEg28tYLgqg_YwQdbBvn1xL1h8oXckVTWIT2hwN26IHpBvcLfHgfNMMkE53QzyFH2xsQLZQ1vuCSp63PGMBQ=m18
-
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w185/ur6UjJKc19HLgvNIixuOgpJw4gX.jpg" group-title="COMEDIA",O Filho Intruso
 https://lh5.googleusercontent.com/yocdq0tt1PC69aYjfYd71f0u0IFuCpBGrJvradUA60dOW18V_uZupISza-4JwXSdxR362ykV7yzO3sznl6G-5DXQpjmFFbg4gbLnnKpQTiudC8ipZDGp2ZS1zOorm2w1vzYLHw=m18
 
@@ -1307,7 +1283,84 @@ http://lh3.googleusercontent.com/K0ULXT-MX9gyMiLJ_1Cee-iwejRt-Vc6TpIBRWiyP5A4jGX
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="NACIONAL",  Loucas pra Casar
 http://lh3.googleusercontent.com/JC78QldoLDN_va38BasMoSCQoWFbSRgPRiYfCffHh_YULnYeJQnFegXVcdifvBLlOY0=m18
 
-series atualizadas 23/04
+#########series atualizadas 24/04########
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP01
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP02
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP03
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP04
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP05
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP06
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP07
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP08
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP09
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP01
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP02
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP03
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP04
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP05
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP06
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP07
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP08
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP09
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP10
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP11
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP12
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP13
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP14
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP15
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP16
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP17
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP18
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP19
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP20
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP21
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP22
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP23
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP24
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP25
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP25.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP26
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP26.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP27
+http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP27.mp4
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/1hRfMs" group-title="Westworld",Westworld T1|EP01
 http://d2vsc6y0jm4dyz.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP01.mp4
@@ -1330,19 +1383,6 @@ http://d2vsc6y0jm4dyz.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand
 #EXTINF:-1 tvg-logo="https://goo.gl/1hRfMs" group-title="Westworld",Westworld T1|EP10
 http://d2vsc6y0jm4dyz.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/WSTWRLDT01EP10.mp4
 
-
-#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP01
-http://cdn422.micetop.us/content/httpdelivery/station19/01leg/01-BAIXO.mp4?ttl=1524547026&t=d907377f9147b32c0a56f93d718437ee
-#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP02
-http://cdn422.micetop.us/content/httpdelivery/station19/01leg/02-BAIXO.mp4?ttl=1524547267&t=6f3dafd6c7a33460681798fd296599e4
-#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP03
-http://cdn622.micetop.us/content/delivery/station19/01leg/03-BAIXO.mp4?ttl=1524547254&t=b487f6715837ccd15a91ed16b61eada3
-#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP04
-http://cdn622.micetop.us/content/delivery/station19/01leg/04-BAIXO.mp4?ttl=1524547265&t=cc2027ef669bb9dfc96986f1645e7599
-#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP05
-http://cdn622.micetop.us/content/delivery/station19/01leg/05-BAIXO.mp4?ttl=1524547372&t=e26e0512c2c2a12fcf0e1011409c03e0
-#EXTINF:-1 tvg-logo="hhttps://goo.gl/fhcBd6" group-title="Station 19",Station 19 T1|EP06
-http://cdn622.micetop.us/content/delivery/station19/01leg/06-BAIXO.mp4?ttl=1524547031&t=63e4631e38f5e6790517a1a2d1ff4175
 
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP01
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP01-up.mp4
@@ -2736,42 +2776,7 @@ http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP08.mp4
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP01
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/01-BAIXO.mp4?ttl=1524549399&t=cf6d04da42ad66a1e8b46c65e1c98cf4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP02
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/02-BAIXO.mp4?ttl=1524549397&t=6150a10edcda883d4427fd63d382cb0f
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP03
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/03-BAIXO.mp4?ttl=1524549392&t=543e59ef2e037882fce52a7081a7a49d
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP04
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/04-BAIXO.mp4?ttl=1524549468&t=8f8f190d5ede74290e65f41f680ea868
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP05
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/05-BAIXO.mp4?ttl=1524549471&t=62fec8c4129fd6f6aebea8056a8e49fd
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP06
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/06-BAIXO.mp4?ttl=1524549518&t=bdea7ab819218076ca55919bdc4ed076
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP07
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/07-BAIXO.mp4?ttl=1524549519&t=03c6a24c87095beb85cef1a17ae9c6b8
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP08
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/08-BAIXO.mp4?ttl=1524549568&t=067a65d8ec8e3c1a05e4e172cbcb5712
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP09
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/09-BAIXO.mp4?ttl=1524549595&t=dd1734e5eac7c87386acf97250ba61c0
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP10
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/10-BAIXO.mp4?ttl=1524549643&t=74d6694ab013f22dc79833249b3066ab
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP11
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/11-BAIXO.mp4?ttl=1524549677&t=b0981a48e40e16dd60b2b025a5414413
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP12
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/012-BAIXO.mp4?ttl=1524549708&t=6fb46709a61a587676aa5e9cc569688e
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP13
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/13-BAIXO.mp4?ttl=1524549730&t=f22336cbb6df8d1bf59192e60138cec4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP14
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/14-BAIXO.mp4?ttl=1524549764&t=c861bd6359c7a36271b53bc3557adac4
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP15
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/15-BAIXO.mp4?ttl=1524549832&t=349d2942d70780ce4be292b9e464f87e
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP16
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/16-BAIXO.mp4?ttl=1524549893&t=9867528e9a1bf138bc8277d934493bdb
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP17
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/17-BAIXO.mp4?ttl=1524549897&t=0671099d87a5aec051f156f400524c50
-#EXTINF:-1 tvg-logo="https://goo.gl/9HrS8Z" group-title="The Good Doctor", The Good Doctor LEG T1|EP18
-http://cdn422.micetop.us/content/httpdelivery/tgd/01leg/18-BAIXO.mp4?ttl=1524549899&t=1762458b3fc6372b0e1a8fa5d12cc9c6
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9VfVDU"group-title="Marvel’s Inhumans",S01E01 - LEG
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/INMNST01EP01.mp4
@@ -3262,25 +3267,3 @@ http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand
 http://cdn422.micetop.us/content/httpdelivery/dbs/06leg/130-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7yX2Af" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP.131 FINAL TEMPORADA
 http://cdn422.micetop.us/content/httpdelivery/dbs/06leg/131-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP1 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP2 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP3 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP4 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP5 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP6 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP7 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP8 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP9 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pd57r2E.png" group-title=" - THE MIST", T1|EP10 (LEG)
-http://cdn422.micetop.us/content/httpdelivery/themist/01leg/10-BAIXO.mp4
-

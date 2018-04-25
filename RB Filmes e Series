@@ -1,6 +1,7 @@
 
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/04/images-35-189x300.jpg"group-title="LANÇAMENTO",Círculo de Fogo: A Revolta DUB
+http://cdn90.micetop.us/lanadelrey/movies/pacificrim2-dub-1080p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/TqqAkq"group-title="LANÇAMENTO",Aventura Perigosa DUB
 http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/AVNTRPRGS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/SE7PdU"group-title="LANÇAMENTO",Vende-se Esta Casa DUB

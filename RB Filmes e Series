@@ -664,15 +664,6 @@ https://lh3.googleusercontent.com/5CnTx3UA8WJVq4cdB-8p5V1fEb1a7mRbd29NExY44zZUn2
 #EXTINF:-1 tvg-logo="http://i.imgur.com/shSeIof.jpg" group-title="SUSPENSE" ,O Tratamento (2016) 
 https://lh3.googleusercontent.com/j6wuDWgZsOAH22tPGFZz6LO1yIe8xumtqWDQ1p_SzLju-yEWNiVuFEbd7Wdkqh_4dcEgVkknNhU=m18
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k9CzUGL.jpg" group-title="COMEDIA" ,Bagunça na Praia (2016)
-https://lh3.googleusercontent.com/zZIeyQcnUYB7r6GUYpvtR37-Tu6hzii4GpIrSda4NOPzCqcu9tQjMACULAhICk4x8rCKGpDYn1k=m18
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hjcaL2c.jpg" group-title="SUSPENSE" ,A Escuridão (2016)
-https://lh3.googleusercontent.com/tqKxBDqmGw7pIME0eG4MioNGxmG16vGXzp-TJ5dIbtPJgpXXPJ0QfA3KDes3mbZECoyKrvDDjDI=m18
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aCgs8kW.jpg" group-title="ROMANCE" ,Todos os Caminhos Levam a Roma
-https://lh3.googleusercontent.com/h_YqlhpRVxwRPAxzwxZ2eKL4_KhOtT1ATv4A98NP0u0ICgD1DRLUakN6ZE9Q42eT8SWuHBhj8XI=m18
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iE5FRC0.jpg" group-title="DRAMA" ,Parceiros de Jogo
 https://lh3.googleusercontent.com/z24aZIWXkXnLH1ExvvVhHI1Apg5cGXtiFeHyvhZz5Y2M0Me6XT5L31A-pdEEqWG5c5IEiijxYNU=m18
 
@@ -834,20 +825,15 @@ https://lh3.googleusercontent.com/sF_OqY-qyj1cdTMhl8wqiEFtFPIV1Gex1CG703yb4WlmNo
 https://lh3.googleusercontent.com/HCxfOQFWCUJLhT-HtJ03sRFBzaWwNWg5G5zEGCdi7qSCacZLsyVX4dEjI3PfaXCEkGDD_Rc4IXg=m18
 
 #EXTINF:-1  tvg-logo="http://i.imgur.com/QxRCoKp.jpg"  group-title="AVENTURA",O Hobbit 1
-https://lh3.googleusercontent.com/7UmCLyrmUGbtuq8nb9hbZWWdn8KdQFn7KKHpJAgNroeUQGAiZ-SXcjWBg4_CSb6aCRnMFyfqpdc=m18
-
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTUJRNINSPRD.mp4
 #EXTINF:-1  tvg-logo="http://i.imgur.com/WEZkfeS.jpg"  group-title="AVENTURA",O Hobbit 2
-https://lh3.googleusercontent.com/FlRFMzjv0r_jt3INHOT7XTbk16SWfNERguBoxqYkoFbFe8ydmKDjlGIKvhbzn0lMFmdJodyFh9E=m18
-
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTADSLCDSMG.mp4
 #EXTINF:-1  tvg-logo="http://i.imgur.com/0sb2lJV.jpg"  group-title="AVENTURA",O Hobbit 3
-https://lh3.googleusercontent.com/pTqUYvF1mT7E6ai6BPtryp0G8JIDDLRVt__4pZzYR5XI6xST7PYQg4vt02_rmXNgLNQ8-_vwCQ=m18
-
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTABTLHDSCNCEXRCTS.mp4
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w185/4gX0M4RifoqXBz9LejqQ6wYPqYo.jpg"  group-title="ANIMAÇÃO",Os Minions
-https://lh3.googleusercontent.com/h4OCkCm5-Xi4SmpIZemgq32iJBz-XjwlqPGBcn_Cfk7tmFpoMTtDKoknJotdHmQre9zXxLbqVQ=m18
-
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w185/z1Rgr1HEae1l3h95TcR2zvHiv1c.jpg"  group-title="ANIMAÇÃO",Alvin e os Esquilos 3
-https://lh3.googleusercontent.com/nFTSq5LVOnvYyJML2Ii56qH_0JWa_TknWWp20Rish031uiZXe4op93mHKw0lg_rzQ3j14GTaHyI=m18
-
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS3.mp4
 #EXTINF:-1  tvg-logo="http://image.tmdb.org/t/p/w185/xtiEwyxfQZDKQgtcvBQfmgUhbNn.jpg"  group-title="TERROR",A Morte do Demônio
 https://lh3.googleusercontent.com/n5KNPLyXtSDuzp-12M_4U4WGySOySXgYQUcGT_NAFIJCk0D7_wszdLfvtazZeiB1bEFUqQRvMQ=m18
 
@@ -1269,7 +1255,40 @@ http://lh3.googleusercontent.com/K0ULXT-MX9gyMiLJ_1Cee-iwejRt-Vc6TpIBRWiyP5A4jGX
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="NACIONAL",  Loucas pra Casar
 http://lh3.googleusercontent.com/JC78QldoLDN_va38BasMoSCQoWFbSRgPRiYfCffHh_YULnYeJQnFegXVcdifvBLlOY0=m18
 
-#########series atualizadas 24/04########
+#########series atualizadas 27/04########
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T1|EP01
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T1|EP02
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T1|EP03
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T1|EP04
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T1|EP05
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T1|EP06
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP01
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP02
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP03
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP04
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP05
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP06
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP07
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer12/ondemand/INTTHBDLNDST02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP08
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer12/ondemand/INTTHBDLNDST02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP09
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer12/ondemand/INTTHBDLNDST02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T2|EP10
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer12/ondemand/INTTHBDLNDST02EP10.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP01
 http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Mtnuzk" group-title="Grey’s Anatomy",Grey’s Anatomy T1|EP02
@@ -1342,8 +1361,56 @@ http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRAT
 http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP26.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/1reczH" group-title="Grey’s Anatomy",Grey’s Anatomy T2|EP27
 http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT02EP27.mp4
-
-
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP01
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP02
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP03
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP04
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP05
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP06
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP07
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP08
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP09
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP10
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP11
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP12
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP13
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP14
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP15
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP16
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP17
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP18
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP19
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP20
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP21
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP22
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP23
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP24
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Qua4m4" group-title="Grey’s Anatomy",Grey’s Anatomy T3|EP25
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer01/videos/GRATT03EP25.mp4
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/1hRfMs" group-title="Westworld",Westworld T1|EP01

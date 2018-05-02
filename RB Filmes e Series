@@ -1,9 +1,20 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/03/images-24-203x300.jpg"group-title="LANÇAMENTO",Maze Runner 3: A Cura Mortal DUB
-http://1-351-10651-30.b.cdn13.com/lanadelrey/movies/mazerunnerthedeathcure-dub-1080p.mp4
-#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/04/images-35-189x300.jpg"group-title="LANÇAMENTO",Círculo de Fogo: A Revolta DUB
-http://cdn90.micetop.us/lanadelrey/movies/pacificrim2-dub-1080p.mp4
+
+#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", DUB
+
+#EXTINF:-1 tvg-logo="https://goo.gl/f2SyBY"group-title="LANÇAMENTO",Cordeiros e Carrascos DUB
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/CRDRSECRSCS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NpzLw5"group-title="LANÇAMENTO",Amador DUB
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/AMDR.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yko9pZ"group-title="LANÇAMENTO",6 Balões DUB
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/6BLOS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/rnu8CT"group-title="LANÇAMENTO",Cinquenta Tons de Liberdade LEG
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/CQNTTNSDLRBDSLEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/W1gsDX"group-title="LANÇAMENTO",Campo Minado DUB
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/CMPMNDO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/SQgcq8"group-title="LANÇAMENTO",Dia dos Mortos DUB
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/DIADSMRTS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/TqqAkq"group-title="LANÇAMENTO",Aventura Perigosa DUB
 http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/AVNTRPRGS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/SE7PdU"group-title="LANÇAMENTO",Vende-se Esta Casa DUB
@@ -1436,17 +1447,17 @@ http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/W
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP01
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP01-up.mp4
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP02
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP02-up.mp4
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP03
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP03-up.mp4
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP04
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP04-up.mp4
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP05
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP05-up.mp4
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP06
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP06-up.mp4
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP07
 http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/THTCKT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dC4kDM" group-title="The Tick",The Tick T1|EP08

@@ -1281,7 +1281,46 @@ http://lh3.googleusercontent.com/K0ULXT-MX9gyMiLJ_1Cee-iwejRt-Vc6TpIBRWiyP5A4jGX
 #EXTINF:-1 tvg-logo="https://goo.gl/S3SDGD" group-title="NACIONAL",  Loucas pra Casar
 http://lh3.googleusercontent.com/JC78QldoLDN_va38BasMoSCQoWFbSRgPRiYfCffHh_YULnYeJQnFegXVcdifvBLlOY0=m18
 
-#########series atualizadas 27/04########
+#########series atualizadas 05/05########
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TRsDL5" group-title="3%",3% T1|EP01
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TRsDL5" group-title="3%",3% T1|EP02
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TRsDL5" group-title="3%",3% T1|EP03
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TRsDL5" group-title="3%",3% T1|EP04
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TRsDL5" group-title="3%",3% T1|EP05
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TRsDL5" group-title="3%",3% T1|EP06
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TRsDL5" group-title="3%",3% T1|EP07
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TRsDL5" group-title="3%",3% T1|EP08
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer11/ondemand/3PRCT01EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP01
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP02
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP03
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP04
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP05
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP06
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP07
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP08
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP09
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/m5EY1j" group-title="3%",3% T2|EP10
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer13/ondemand/3PRCT02EP10.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T1|EP01
 http://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer11/ondemand/INTTHBDLNDST01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/smrcRW" group-title="Into the Badlands",Into the Badlands T1|EP02

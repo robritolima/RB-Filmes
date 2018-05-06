@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", DUB
+#EXTINF:-1 tvg-logo="https://scontent.fssz3-1.fna.fbcdn.net/v/t1.0-9/31925023_1411556242282332_6848226685188308992_n.png?_nc_cat=0&oh=81f461b2869b0f492845b2a6ff51026e&oe=5B947CF4"group-title="LANÇAMENTO", LIBERAMOS TODOS OS CANAIS EM SMARTV, TVBOX, CHROMECAST,...
 
 #EXTINF:-1 tvg-logo="https://goo.gl/gfquHW"group-title="LANÇAMENTO",Correndo Atrás de um Pai DUB
 http://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/CRNDATRSDUMPAI.mp4

@@ -1,8 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=""group-title="LANÇAMENTO", LIBERAMOS TODOS OS CANAIS EM SMARTV, TVBOX, CHROMECAST
-https://openload.co/embed/qAdcqYI3BJU.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/rDFgiu" group-title="LANÇAMENTO", VINGADORES 3: GUERRA INFINITA (DUB - TS) 
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/VINGADORESGUERRAINFINITATSV2DUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/XdmnGF" group-title="LANÇAMENTO", 10x10 (LEG) 
